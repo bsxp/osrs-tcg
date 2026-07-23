@@ -40699,27 +40699,6 @@
     "value": 15
   },
   {
-    "name": "Green gingerbread shield",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Green_gingerbread_shield_detail.png/130px-Green_gingerbread_shield_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Transform",
-      "Destroy"
-    ],
-    "examine": "A delicious looking Gingerbread Gnome.",
-    "value": 0,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Green gloop soup",
     "category": [
       "Resource",
@@ -69543,27 +69522,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Red gingerbread shield",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Red_gingerbread_shield_detail.png/130px-Red_gingerbread_shield_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Transform",
-      "Destroy"
-    ],
-    "examine": "A delicious looking Gingerbread Gnome.",
-    "value": 0,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Red gloves",
     "category": [
       "Resource",
@@ -75431,23 +75389,6 @@
     ],
     "examine": "A scaled blue dragonhide.",
     "value": 100
-  },
-  {
-    "name": "Scaperune teleport",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Scaperune_teleport_detail.png/130px-Scaperune_teleport_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "A teleport to ScapeRune.",
-    "value": 0
   },
   {
     "name": "Scarab dung",
