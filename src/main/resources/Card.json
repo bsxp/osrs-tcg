@@ -5518,29 +5518,6 @@
     "value": 500
   },
   {
-    "name": "Arcane grimoire",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Arcane_grimoire_detail.png/130px-Arcane_grimoire_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Change Spellbook",
-      "Wield",
-      "Previous Spellbook",
-      "Check Previous",
-      "Destroy"
-    ],
-    "examine": "A powerful tome filled with the knowledge of the magical arts.",
-    "value": 1,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Arcane prayer scroll",
     "category": [
       "Resource",
@@ -22981,26 +22958,6 @@
     "equipmentSlot": "body"
   },
   {
-    "name": "Crystal dagger",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Crystal_dagger_%28perfected%29_detail.png/130px-Crystal_dagger_%28perfected%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Drop"
-    ],
-    "examine": "A crystalline dagger.",
-    "value": 30000,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Crystal dust",
     "category": [
       "Resource"
@@ -25108,28 +25065,6 @@
     ],
     "examine": "Embrace your inner demon.",
     "value": 1
-  },
-  {
-    "name": "Demonic slayer helmet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Demonic_slayer_helmet_detail.png/130px-Demonic_slayer_helmet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Check",
-      "Disassemble",
-      "Drop"
-    ],
-    "examine": "You don\u0027t want to wear it inside-out.",
-    "value": 90000,
-    "equipmentSlot": "head"
   },
   {
     "name": "Demonic staff ornament kit",
@@ -33249,29 +33184,6 @@
     ],
     "examine": "Get your axes from Bob\u0027s Axes.",
     "value": 1
-  },
-  {
-    "name": "Forager\u0027s pouch",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Forager%27s_pouch_detail.png/130px-Forager%27s_pouch_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Check",
-      "Withdraw",
-      "Fill",
-      "Destroy"
-    ],
-    "examine": "A perfect pouch for foraging herbs.",
-    "value": 1,
-    "equipmentSlot": "shield"
   },
   {
     "name": "Forester\u0027s ration",
@@ -47218,27 +47130,6 @@
     ],
     "examine": "This kitten seems to like you.",
     "value": 1
-  },
-  {
-    "name": "Knapsack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Knapsack_detail.png/130px-Knapsack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Fill",
-      "Check",
-      "Close",
-      "Dispose",
-      "Destroy"
-    ],
-    "examine": "A rustic-looking bag for storing resources.",
-    "value": 100
   },
   {
     "name": "Knife",
@@ -72509,25 +72400,6 @@
     "value": 200
   },
   {
-    "name": "Searing boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Searing_boots_detail.png/130px-Searing_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Greaves that give you blazing speed.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
     "name": "Searing page",
     "category": [
       "Resource"
@@ -76122,23 +75994,6 @@
     ],
     "examine": "Used for high level curse spells.",
     "value": 300
-  },
-  {
-    "name": "Soul shard",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Soul_shard_detail.png/130px-Soul_shard_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Some poor souls\u0027 sole remains. Use on the Libation Bowl at the Teomat to put them to rest.",
-    "value": 1
   },
   {
     "name": "Soul talisman",
