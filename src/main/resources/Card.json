@@ -11618,26 +11618,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Black santa hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Black_santa_hat_detail.png/130px-Black_santa_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A black Santa hat produced by Anti-Santa.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Black satchel",
     "category": [
       "Resource",
@@ -47124,26 +47104,6 @@
     ],
     "examine": "A strange pouch with intricate symbols on it.",
     "value": 50
-  },
-  {
-    "name": "Inverted santa hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Inverted_santa_hat_detail.png/130px-Inverted_santa_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "An inverted Santa hat worn by Santa\u0027s White Knight bodyguards.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Iorwerth camp teleport",
