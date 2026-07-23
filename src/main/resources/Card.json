@@ -9682,26 +9682,6 @@
     "value": 2
   },
   {
-    "name": "Beer belly sweater",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Beer_belly_sweater_detail.png/130px-Beer_belly_sweater_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "I think I ate too much...",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Beer glass",
     "category": [
       "Resource"
@@ -21063,26 +21043,6 @@
     ],
     "examine": "I need to pull this.",
     "value": 1
-  },
-  {
-    "name": "Christmas dinner",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Christmas_dinner_detail.png/130px-Christmas_dinner_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A plate full of food and a cup full of festive drink!",
-    "value": 50,
-    "equipmentSlot": "2h"
   },
   {
     "name": "Chromium ingot",
@@ -46861,26 +46821,6 @@
     "value": 100
   },
   {
-    "name": "Jad jumper",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jad_jumper_detail.png/130px-Jad_jumper_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "This will definitely keep me warm!",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Jade",
     "category": [
       "Resource"
@@ -51815,26 +51755,6 @@
     ],
     "examine": "This needs refining.",
     "value": 80
-  },
-  {
-    "name": "Lovley jubbly bib",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Lovley_jubbly_bib_detail.png/130px-Lovley_jubbly_bib_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "This\u0027ll stop me making a mess of my top.",
-    "value": 1,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Lucky cutlass",
@@ -75061,24 +74981,6 @@
     ],
     "examine": "I need to cook this.",
     "value": 1
-  },
-  {
-    "name": "Serving platter",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Serving_platter_detail.png/130px-Serving_platter_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Inspect",
-      "Destroy"
-    ],
-    "examine": "I can carry food and drinks on this.",
-    "value": 50
   },
   {
     "name": "Severed leg",
