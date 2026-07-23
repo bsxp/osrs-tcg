@@ -37664,26 +37664,6 @@
     "value": 1200
   },
   {
-    "name": "Giant present",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Giant_present_detail.png/130px-Giant_present_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "That\u0027s one ginormous present.",
-    "value": 1,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Giant seaweed",
     "category": [
       "Resource"
@@ -74067,26 +74047,6 @@
       "Drop"
     ],
     "examine": "Better not fill this to the brim or I might be on the naughty list.",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
-    "name": "Sack of presents",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sack_of_presents_detail.png/130px-Sack_of_presents_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "You too can look like Santa.",
     "value": 1,
     "equipmentSlot": "cape"
   },
