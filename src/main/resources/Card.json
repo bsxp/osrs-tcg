@@ -5158,106 +5158,6 @@
     "value": 500
   },
   {
-    "name": "Antisanta boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antisanta_boots_detail.png/130px-Antisanta_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Definitely no jingle-bells on these boots.",
-    "value": 0,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Antisanta gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antisanta_gloves_detail.png/130px-Antisanta_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Keeps the coal-dust off.",
-    "value": 0,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Antisanta jacket",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antisanta_jacket_detail.png/130px-Antisanta_jacket_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Keeps your bones warm.",
-    "value": 0,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Antisanta mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antisanta_mask_detail.png/130px-Antisanta_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "He sees you when you\u0027re sleeping.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Antisanta pantaloons",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antisanta_pantaloons_detail.png/130px-Antisanta_pantaloons_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Keeps your bones warm.",
-    "value": 0,
-    "equipmentSlot": "legs"
-  },
-  {
     "name": "Antler guard",
     "category": [
       "Resource",
@@ -8438,66 +8338,6 @@
     "value": 1
   },
   {
-    "name": "Banshee mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Banshee_mask_detail.png/130px-Banshee_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Makes me want to scream.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Banshee robe",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Banshee_robe_detail.png/130px-Banshee_robe_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Looks like someone has taken a saw to these!",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Banshee top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Banshee_top_detail.png/130px-Banshee_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Looks like it\u0027s been slashed by a claw.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Barb-tail harpoon",
     "category": [
       "Resource",
@@ -11009,26 +10849,6 @@
     "examine": "A smokey evil embodies this amulet.",
     "value": 45000,
     "equipmentSlot": "neck"
-  },
-  {
-    "name": "Black partyhat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Black_partyhat_detail.png/130px-Black_partyhat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A dark hat produced by Shanty Claws.",
-    "value": 250000,
-    "equipmentSlot": "head"
   },
   {
     "name": "Black pickaxe",
@@ -13905,46 +13725,6 @@
     "examine": "\u0027Bob says: Never give your password out to anyone.\u0027",
     "value": 3,
     "equipmentSlot": "body"
-  },
-  {
-    "name": "Bobble hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bobble_hat_detail.png/130px-Bobble_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly bobble hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Bobble scarf",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bobble_scarf_detail.png/130px-Bobble_scarf_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly scarf.",
-    "value": 1,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Body core",
@@ -17278,26 +17058,6 @@
     "value": 420
   },
   {
-    "name": "Bunny feet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bunny_feet_detail.png/130px-Bunny_feet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Bigger and softer than a rabbit\u0027s foot necklace.",
-    "value": 0,
-    "equipmentSlot": "feet"
-  },
-  {
     "name": "Buried alive",
     "category": [
       "Resource"
@@ -19162,26 +18922,6 @@
     "value": 3
   },
   {
-    "name": "Candy cane",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Candy_cane_detail.png/130px-Candy_cane_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "Minty and refreshing, but not very effective as a weapon.",
-    "value": 0,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Steel cannonball",
     "category": [
       "Resource"
@@ -20266,86 +20006,6 @@
     "value": 100
   },
   {
-    "name": "Chicken feet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Chicken_feet_detail.png/130px-Chicken_feet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Perfect for crossing the road.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Chicken head",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Chicken_head_detail.png/130px-Chicken_head_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Cock-a-doodle-do!",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Chicken legs",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Chicken_legs_detail.png/130px-Chicken_legs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "What\u0027s the matter, are you chicken?",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Chicken wings",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Chicken_wings_detail.png/130px-Chicken_wings_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "I look fowl in this.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Chilhuac red",
     "category": [
       "Resource",
@@ -21064,106 +20724,6 @@
     ],
     "examine": "Protects your clue scroll if you die.",
     "value": 10
-  },
-  {
-    "name": "Clue hunter boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clue_hunter_boots_detail.png/130px-Clue_hunter_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Warm leather boots lined with wolf fur.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Clue hunter cloak",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clue_hunter_cloak_detail.png/130px-Clue_hunter_cloak_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Winter is coming.",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
-    "name": "Clue hunter garb",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clue_hunter_garb_detail.png/130px-Clue_hunter_garb_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Stark and full of vigour.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Clue hunter gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clue_hunter_gloves_detail.png/130px-Clue_hunter_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Warm leather gloves lined with wolf fur.",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Clue hunter trousers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clue_hunter_trousers_detail.png/130px-Clue_hunter_trousers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A promising pair of trousers.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Clueless scroll",
@@ -22853,46 +22413,6 @@
     "value": 120
   },
   {
-    "name": "Cow gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cow_gloves_detail.png/130px-Cow_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It looks like a cow\u0027s hoofs.",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Cow shoes",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cow_shoes_detail.png/130px-Cow_shoes_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It looks like a cow\u0027s hoofs.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
     "name": "Cow slippers",
     "category": [
       "Resource",
@@ -22913,46 +22433,6 @@
     "examine": "Cute cow slippers.",
     "value": 1000,
     "equipmentSlot": "feet"
-  },
-  {
-    "name": "Cow top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cow_top_detail.png/130px-Cow_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It looks like a cow\u0027s body.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Cow trousers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cow_trousers_detail.png/130px-Cow_trousers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It looks like a cow\u0027s legs.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Cowbell amulet",
@@ -28640,27 +28120,6 @@
     "equipmentSlot": "body"
   },
   {
-    "name": "Druidic wreath",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Druidic_wreath_detail.png/130px-Druidic_wreath_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Check rank",
-      "Destroy"
-    ],
-    "examine": "This one\u0027s more common than you\u0027d expect.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Drunk dragon",
     "category": [
       "Resource",
@@ -29165,46 +28624,6 @@
     "value": 10
   },
   {
-    "name": "Easter egg helm",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Easter_egg_helm_detail.png/130px-Easter_egg_helm_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Egg head!",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Easter ring",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Easter_ring_detail.png/130px-Easter_ring_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A ring given to you by the Easter Bunny.",
-    "value": 1,
-    "equipmentSlot": "ring"
-  },
-  {
     "name": "Eastern discovery",
     "category": [
       "Resource"
@@ -29677,46 +29096,6 @@
     "examine": "A large whisk of death.",
     "value": 50,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Eggshell platebody",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Eggshell_platebody_detail.png/130px-Eggshell_platebody_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A chocolate shell reinforced with a thin layer of foil.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Eggshell platelegs",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Eggshell_platelegs_detail.png/130px-Eggshell_platelegs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A chocolate shell reinforced with a thin layer of foil.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Egniol potion",
@@ -38824,106 +38203,6 @@
     "value": 1
   },
   {
-    "name": "Gravedigger boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gravedigger_boots_detail.png/130px-Gravedigger_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "If there\u0027s something sticky on the underside, don\u0027t ask who it was.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Gravedigger gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gravedigger_gloves_detail.png/130px-Gravedigger_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "They protect your hands from the rough handles of spades.",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Gravedigger leggings",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gravedigger_leggings_detail.png/130px-Gravedigger_leggings_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Is that someone\u0027s missing phalange stuck in the hem?",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Gravedigger mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gravedigger_mask_detail.png/130px-Gravedigger_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It\u0027s now easy being green.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Gravedigger top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gravedigger_top_detail.png/130px-Gravedigger_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Featuring a selection of mud stains from across Gielinor.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Great white shark jaw",
     "category": [
       "Resource"
@@ -42061,26 +41340,6 @@
     "value": 2
   },
   {
-    "name": "Hand fan",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Hand_fan_detail.png/130px-Hand_fan_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Chill",
-      "Destroy"
-    ],
-    "examine": "I\u0027m not a huge fan.",
-    "value": 0,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Hard leather",
     "category": [
       "Resource"
@@ -42671,26 +41930,6 @@
     "equipmentSlot": "head"
   },
   {
-    "name": "Helm of raedwald",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Helm_of_raedwald_detail.png/130px-Helm_of_raedwald_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "An ancient helmet of King Raedwald Indanorf. First discovered by Pikachu Yip.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Helmet of the moon",
     "category": [
       "Resource",
@@ -43208,26 +42447,6 @@
     "equipmentSlot": "head"
   },
   {
-    "name": "Hood of ruin",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Hood_of_ruin_detail.png/130px-Hood_of_ruin_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A magical-looking hood.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Hooded slayer helmet",
     "category": [
       "Resource",
@@ -43289,26 +42508,6 @@
     "examine": "Sound the horn for a better hunt.",
     "value": 20000,
     "equipmentSlot": "shield"
-  },
-  {
-    "name": "Hornwood helm",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Hornwood_helm_detail.png/130px-Hornwood_helm_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A helm to celebrate the summer solstice.",
-    "value": 10,
-    "equipmentSlot": "head"
   },
   {
     "name": "Hosidius banner",
@@ -44742,27 +43941,6 @@
     ],
     "examine": "Flaky, chalky, and warm.",
     "value": 80
-  },
-  {
-    "name": "Infinite money bag",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Infinite_money_bag_detail.png/130px-Infinite_money_bag_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Take-from",
-      "Destroy"
-    ],
-    "examine": "A magical money bag with infinite coins inside.",
-    "value": 1,
-    "equipmentSlot": "cape"
   },
   {
     "name": "Infinity boots",
@@ -46922,46 +46100,6 @@
     "examine": "A jester cape.",
     "value": 1000,
     "equipmentSlot": "cape"
-  },
-  {
-    "name": "Jester hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jester_hat_detail.png/130px-Jester_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly jester hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Jester scarf",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jester_scarf_detail.png/130px-Jester_scarf_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly jester scarf.",
-    "value": 1,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Jewel of amascut",
@@ -52923,27 +52061,6 @@
     ],
     "examine": "Salvage collected from a mercenary shipwreck.",
     "value": 200
-  },
-  {
-    "name": "Mask of balance",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Mask_of_balance_detail.png/130px-Mask_of_balance_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Check rank",
-      "Destroy"
-    ],
-    "examine": "A shining mask of balance.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Mask of ranul",
@@ -60145,106 +59262,6 @@
     "value": 200
   },
   {
-    "name": "Ornate boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ornate_boots_detail.png/130px-Ornate_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Some ornate armoured boots.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Ornate cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ornate_cape_detail.png/130px-Ornate_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "An ornate armoured cape.",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
-    "name": "Ornate gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ornate_gloves_detail.png/130px-Ornate_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Some ornate armoured gloves.",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Ornate helm",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ornate_helm_detail.png/130px-Ornate_helm_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "An ornate helm, first discovered by the Crack the Clue Community.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Ornate legs",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ornate_legs_detail.png/130px-Ornate_legs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A pair of ornate armoured legs.",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
     "name": "Ornate lockbox",
     "category": [
       "Resource"
@@ -60279,26 +59296,6 @@
     ],
     "examine": "This handle can be applied to the granite maul.",
     "value": 5000
-  },
-  {
-    "name": "Ornate top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ornate_top_detail.png/130px-Ornate_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "An ornate armoured top.",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Osprey beak",
@@ -65152,47 +64149,6 @@
     ],
     "examine": "Well, this would certainly add some colour to a meal.",
     "value": 120
-  },
-  {
-    "name": "Rainbow partyhat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rainbow_partyhat_detail.png/130px-Rainbow_partyhat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A colourful hat produced by Shanty Claws.",
-    "value": 250000,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Rainbow scarf",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rainbow_scarf_detail.png/130px-Rainbow_scarf_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
-    "value": 80,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Rake",
@@ -70072,27 +69028,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Rubber chicken",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rubber_chicken_detail.png/130px-Rubber_chicken_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Dance",
-      "Destroy"
-    ],
-    "examine": "Perhaps not the most powerful weapon in Gielinor.",
-    "value": 0,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Rubium geode",
     "category": [
       "Resource"
@@ -72187,46 +71122,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Santa boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Santa_boots_detail.png/130px-Santa_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Designed to minimise damage to rooftops when disembarking from a sleigh.",
-    "value": 0,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Santa gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Santa_gloves_detail.png/130px-Santa_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "These let Santa distribute gifts without catching germs from the recipients.",
-    "value": 0,
-    "equipmentSlot": "hands"
-  },
-  {
     "name": "Santa hat",
     "category": [
       "Resource",
@@ -72245,66 +71140,6 @@
     "examine": "It\u0027s a Santa hat.",
     "value": 160,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Santa jacket",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Santa_jacket_detail.png/130px-Santa_jacket_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Apparently you can still fit down the chimney in this.",
-    "value": 0,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Santa mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Santa_mask_detail.png/130px-Santa_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Gets your head into the holiday mood.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Santa pantaloons",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Santa_pantaloons_detail.png/130px-Santa_pantaloons_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Christmas stockings aren\u0027t just for hanging by the fireplace.",
-    "value": 0,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Sapphire",
@@ -77084,126 +75919,6 @@
     ],
     "examine": "A snape grass seed - plant in an allotment.",
     "value": 94
-  },
-  {
-    "name": "Snow imp costume body",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_imp_costume_body_detail.png/130px-Snow_imp_costume_body_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A poorly made fake snow imp body.",
-    "value": 50,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Snow imp costume feet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_imp_costume_feet_detail.png/130px-Snow_imp_costume_feet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Poorly made fake snow imp feet.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Snow imp costume gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_imp_costume_gloves_detail.png/130px-Snow_imp_costume_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Poorly made fake snow imp gloves.",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Snow imp costume head",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_imp_costume_head_detail.png/130px-Snow_imp_costume_head_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A poorly made fake snow imp head.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Snow imp costume legs",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_imp_costume_legs_detail.png/130px-Snow_imp_costume_legs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Poorly made fake snow imp legs.",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Snow imp costume tail",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_imp_costume_tail_detail.png/130px-Snow_imp_costume_tail_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A poorly made fake snow imp tail.",
-    "value": 1,
-    "equipmentSlot": "cape"
   },
   {
     "name": "Snow leopard toy",
@@ -86485,46 +85200,6 @@
     "value": 2
   },
   {
-    "name": "Tri-jester hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tri-jester_hat_detail.png/130px-Tri-jester_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly triple bobble jester hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Tri-jester scarf",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tri-jester_scarf_detail.png/130px-Tri-jester_scarf_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly jester scarf.",
-    "value": 1,
-    "equipmentSlot": "neck"
-  },
-  {
     "name": "Triangle sandwich",
     "category": [
       "Resource",
@@ -91737,26 +90412,6 @@
     "value": 1
   },
   {
-    "name": "Wise old man\u0027s santa hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Wise_old_man%27s_santa_hat_detail.png/130px-Wise_old_man%27s_santa_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It\u0027s a Santa hat++.",
-    "value": 160,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Wisp",
     "category": [
       "Resource",
@@ -92118,46 +90773,6 @@
     ],
     "examine": "Nice and fluffy.",
     "value": 1
-  },
-  {
-    "name": "Woolly hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Woolly_hat_detail.png/130px-Woolly_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly tobogganing hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Woolly scarf",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Woolly_scarf_detail.png/130px-Woolly_scarf_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly tobogganing scarf.",
-    "value": 1,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Worm batta",
@@ -93260,27 +91875,6 @@
     "examine": "A non-magical copy of the Makeover Mage\u0027s amulet.",
     "value": 1,
     "equipmentSlot": "neck"
-  },
-  {
-    "name": "Yo-yo",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Yo-yo_detail.png/130px-Yo-yo_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Play",
-      "Loop",
-      "Walk",
-      "Crazy",
-      "Destroy"
-    ],
-    "examine": "A gift from Santa.",
-    "value": 10
   },
   {
     "name": "Young impling jar",
