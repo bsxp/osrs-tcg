@@ -43796,26 +43796,6 @@
     "value": 245
   },
   {
-    "name": "Headless head",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Headless_head_detail.png/130px-Headless_head_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "There\u0027s a spooky spell on this helm.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Healer hat",
     "category": [
       "Resource",
@@ -53507,23 +53487,6 @@
       "Drop"
     ],
     "examine": "I could use this to make jewellery.",
-    "value": 1
-  },
-  {
-    "name": "Magical pumpkin",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Magical_pumpkin_detail.png/130px-Magical_pumpkin_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Looks like it can be planted in your garden.",
     "value": 1
   },
   {
@@ -79999,24 +79962,6 @@
     ],
     "examine": "A nicely roasted spider threaded onto a skewer stick.",
     "value": 50
-  },
-  {
-    "name": "Spider snack",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spider_snack_detail.png/130px-Spider_snack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Eat",
-      "Destroy"
-    ],
-    "examine": "It looks kind of tasty.",
-    "value": 1
   },
   {
     "name": "Spiked manacles",
