@@ -7940,26 +7940,6 @@
     "value": 2
   },
   {
-    "name": "Banana cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Banana_cape_detail.png/130px-Banana_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The cape worn by master banana peelers.",
-    "value": 0,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Banana hat",
     "category": [
       "Resource",
@@ -25172,26 +25152,6 @@
     "examine": "An cursed amulet of magic.",
     "value": 900,
     "equipmentSlot": "neck"
-  },
-  {
-    "name": "Cursed banana",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cursed_banana_detail.png/130px-Cursed_banana_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "A cursed banana which forces the individual to take on monkey-like mannerisms.",
-    "value": 0,
-    "equipmentSlot": "2h"
   },
   {
     "name": "Cursed goblin bow",
