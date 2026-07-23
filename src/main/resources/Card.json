@@ -73890,24 +73890,6 @@
     "value": 2
   },
   {
-    "name": "Scribbled notes",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Scribbled_notes_detail.png/130px-Scribbled_notes_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Destroy"
-    ],
-    "examine": "You can barely make out what the note says, almost like it was written by an egg.",
-    "value": 2
-  },
-  {
     "name": "Scroll of imbuing",
     "category": [
       "Resource"
