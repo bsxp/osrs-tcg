@@ -17741,26 +17741,6 @@
     "equipmentSlot": "feet"
   },
   {
-    "name": "Bunnyman mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bunnyman_mask_detail.png/130px-Bunnyman_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Hippity, hoppity, the Bunnyman is on his way.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Buried alive",
     "category": [
       "Resource"
