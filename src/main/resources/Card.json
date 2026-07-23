@@ -88000,28 +88000,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Treat cauldron",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Treat_cauldron_%28style_5%29_detail.png/130px-Treat_cauldron_%28style_5%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Check",
-      "Change",
-      "Destroy"
-    ],
-    "examine": "Perfect for collecting treats while Trick-or-Treating!",
-    "value": 1,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Tree wizards\u0027 journal",
     "category": [
       "Resource",
@@ -93349,106 +93327,6 @@
     ],
     "examine": "Born in the shadows.",
     "value": 2500000
-  },
-  {
-    "name": "Witch boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Witch_boots_detail.png/130px-Witch_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Wickedly pointy!",
-    "value": 0,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Witch cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Witch_cape_detail.png/130px-Witch_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A thick cape covered in feathers... and probably spiders.",
-    "value": 0,
-    "equipmentSlot": "cape"
-  },
-  {
-    "name": "Witch hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Witch_hat_detail.png/130px-Witch_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky hat complete with an even spookier nose.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Witch robes",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Witch_robes_detail.png/130px-Witch_robes_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Protects the legs when brewing concoctions.",
-    "value": 0,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Witch top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Witch_top_detail.png/130px-Witch_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Might help me turn people into newts.",
-    "value": 0,
-    "equipmentSlot": "body"
   },
   {
     "name": "Witchwood icon",
