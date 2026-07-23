@@ -27617,24 +27617,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Diango\u0027s claws",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Diango%27s_claws_detail.png/130px-Diango%27s_claws_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Emote",
-      "Drop"
-    ],
-    "examine": "A pair of familiar looking claws.",
-    "value": 500
-  },
-  {
     "name": "Digsite pendant",
     "category": [
       "Resource",
