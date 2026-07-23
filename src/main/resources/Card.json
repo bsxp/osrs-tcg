@@ -74670,23 +74670,6 @@
     "equipmentSlot": "legs"
   },
   {
-    "name": "Santa suit",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Santa_suit_detail.png/130px-Santa_suit_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Apparently you can still fit down the chimney in this.",
-    "value": 1
-  },
-  {
     "name": "Sapphire",
     "category": [
       "Resource"
@@ -91884,23 +91867,6 @@
     "equipmentSlot": "body"
   },
   {
-    "name": "Vault key",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Vault_key_detail.png/130px-Vault_key_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "The key to Santa\u0027s vault.",
-    "value": 1
-  },
-  {
     "name": "Veg ball",
     "category": [
       "Resource",
@@ -94993,24 +94959,6 @@
     "examine": "It\u0027s a Santa hat++.",
     "value": 160,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Wise old man\u0027s teleport tablet",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Wise_old_man%27s_teleport_tablet_detail.png/130px-Wise_old_man%27s_teleport_tablet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Break",
-      "Destroy"
-    ],
-    "examine": "Allows you to teleport from Thessalia\u0027s back to the Land of Snow.",
-    "value": 1
   },
   {
     "name": "Wisp",
