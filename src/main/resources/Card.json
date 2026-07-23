@@ -81752,26 +81752,6 @@
     "value": 3000
   },
   {
-    "name": "Star-face",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Star-face_detail.png/130px-Star-face_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Say hello to my little star.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Stardust",
     "category": [
       "Resource"
@@ -89404,46 +89384,6 @@
     "examine": "Perfect for collecting treats while Trick-or-Treating!",
     "value": 1,
     "equipmentSlot": "shield"
-  },
-  {
-    "name": "Tree skirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tree_skirt_detail.png/130px-Tree_skirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The bottom of a tree costume.",
-    "value": 0,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Tree top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tree_top_detail.png/130px-Tree_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Part of a tree costume.",
-    "value": 0,
-    "equipmentSlot": "body"
   },
   {
     "name": "Tree wizards\u0027 journal",
