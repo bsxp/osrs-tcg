@@ -1,39 +1,5 @@
 [
   {
-    "name": "18lb shot",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/18lb_shot_detail.png/130px-18lb_shot_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Just landed 18lb shot.",
-    "value": 1
-  },
-  {
-    "name": "22lb shot",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/22lb_shot_detail.png/130px-22lb_shot_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Just landed 22lb shot.",
-    "value": 1
-  },
-  {
     "name": "3rd age amulet",
     "category": [
       "Resource",
@@ -6721,26 +6687,6 @@
     ],
     "examine": "Used for Lunar spells.",
     "value": 50
-  },
-  {
-    "name": "Astral tiara",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Astral_tiara_detail.png/130px-Astral_tiara_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Drop"
-    ],
-    "examine": "A tiara infused with the properties of the heavens.",
-    "value": 100,
-    "equipmentSlot": "head"
   },
   {
     "name": "Asyn remains",
@@ -15247,23 +15193,6 @@
       "Drop"
     ],
     "examine": "This fishing rod seems to have been bitten in half...",
-    "value": 0
-  },
-  {
-    "name": "Broken plate",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Broken_plate_detail.png/130px-Broken_plate_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Alas...",
     "value": 0
   },
   {
@@ -30665,23 +30594,6 @@
     "value": 50
   },
   {
-    "name": "Essence pack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Essence_pack_detail.png/130px-Essence_pack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Open",
-      "Drop"
-    ],
-    "examine": "A pack containing 100 pure essence.",
-    "value": 430
-  },
-  {
     "name": "Eternal boots",
     "category": [
       "Resource",
@@ -32527,23 +32439,6 @@
     "examine": "There\u0027s something fishy about this...",
     "value": 1000,
     "equipmentSlot": "cape"
-  },
-  {
-    "name": "Fish vial",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Fish_vial_%282%29_detail.png/130px-Fish_vial_%282%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "This vial is half-filled with mashed fish, yuck.",
-    "value": 3
   },
   {
     "name": "Fishbowl",
@@ -41309,24 +41204,6 @@
       "Drop"
     ],
     "examine": "A sack filled with hay.",
-    "value": 1
-  },
-  {
-    "name": "Hazelmere\u0027s book",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Hazelmere%27s_book_detail.png/130px-Hazelmere%27s_book_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Drop"
-    ],
-    "examine": "Looks magical...",
     "value": 1
   },
   {
@@ -52720,23 +52597,6 @@
     "value": 8
   },
   {
-    "name": "Mind mender",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Mind_mender_detail.png/130px-Mind_mender_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Apparently helps with nerves.",
-    "value": 30
-  },
-  {
     "name": "Mind rune",
     "category": [
       "Resource",
@@ -62579,23 +62439,6 @@
     "equipmentSlot": "legs"
   },
   {
-    "name": "Puddle of slime",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Puddle_of_slime_detail.png/130px-Puddle_of_slime_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "It\u0027s a puddle of slime.",
-    "value": 1
-  },
-  {
     "name": "Pufferfish",
     "category": [
       "Resource"
@@ -63842,23 +63685,6 @@
     ],
     "examine": "A useful herb.",
     "value": 25
-  },
-  {
-    "name": "Rancid turkey",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rancid_turkey_detail.png/130px-Rancid_turkey_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "It\u0027s gone manky.",
-    "value": 1
   },
   {
     "name": "Ranger boots",
@@ -75689,23 +75515,6 @@
     ],
     "examine": "Used for high level curse spells.",
     "value": 300
-  },
-  {
-    "name": "Soul talisman",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Soul_talisman_detail.png/130px-Soul_talisman_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "A mysterious power emanates from the talisman...",
-    "value": 4
   },
   {
     "name": "Soul wars guide",
@@ -89739,23 +89548,6 @@
       "Drop"
     ],
     "examine": "Wild.",
-    "value": 1
-  },
-  {
-    "name": "Wimpy feather",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Wimpy_feather_detail.png/130px-Wimpy_feather_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Doesn\u0027t look very useful.",
     "value": 1
   },
   {
