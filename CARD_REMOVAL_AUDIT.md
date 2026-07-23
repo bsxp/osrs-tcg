@@ -4,21 +4,21 @@ Audited `src/main/resources/Card.json` @ `main` (44a9dd6) — **6,376 cards**.
 Classified from live OSRS Wiki page categories (fetched per-card), not keyword matching.
 Item IDs are from OSRS Wiki infoboxes.
 
-**335 cards recommended for removal.** Tradeable items are excluded — they stay live in
-the main-game economy (53 cards, listed at the end).
+**349 cards recommended for removal.** Tradeable items are excluded — they stay live in
+the main-game economy (54 cards, listed at the end).
 
 | Category | Cards |
 |---|---|
-| Event / holiday / anniversary | 235 |
-| Diango reclaimables | 59 |
-| Limited-time / discontinued / unobtainable | 29 |
-| Temporary gamemodes (DMM / Leagues) | 14 |
+| Event / holiday / anniversary | 286 |
+| Diango reclaimables | 12 |
+| Limited-time / discontinued / unobtainable | 31 |
+| Temporary gamemodes (DMM / Leagues) | 23 |
 | Quest items | 0 — all 10 matches are permanently obtainable |
-| **Total** | **335** |
+| **Total** | **349** |
 
 ---
 
-## 1. Event / holiday items (235)
+## 1. Event / holiday items (286)
 
 ```
 // 2005 Halloween event
@@ -48,6 +48,7 @@ the main-game economy (53 cards, listed at the end).
 6866 // Green marionette
 6864 // Marionette handle
 6867 // Red marionette
+6822 // Star bauble (variants: 6824, 6826)
 6840 // Tree bauble (variants: 6842, 6844)
 
 // 2014 Easter event
@@ -66,6 +67,7 @@ the main-game economy (53 cards, listed at the end).
 
 // 2015 Christmas event
 13343 // Black santa hat
+13344 // Inverted santa hat
 
 // 2015 Easter event
 13186 // Volatile mineral
@@ -91,6 +93,7 @@ the main-game economy (53 cards, listed at the end).
 
 // 2017 Birthday event
 21211 // 4th birthday hat
+21209 // Birthday balloons
 
 // 2017 Christmas event
 21866 // Santa suit
@@ -113,6 +116,7 @@ the main-game economy (53 cards, listed at the end).
 22316 // Prop sword
 
 // 2018 Christmas event
+22713 // Star-face
 22717 // Tree skirt
 22715 // Tree top
 
@@ -143,8 +147,11 @@ the main-game economy (53 cards, listed at the end).
 24325 // Pumpkin lantern
 24327 // Skeleton lantern
 24298 // Smoke powder
+24323 // Spookier boots
+24321 // Spookier gloves
 24315 // Spookier hood
 24317 // Spookier robe
+24319 // Spookier skirt
 24313 // Spooky boots
 24311 // Spooky gloves
 24305 // Spooky hood
@@ -159,12 +166,16 @@ the main-game economy (53 cards, listed at the end).
 25314 // Giant boulder
 25286 // Mouldy sawdust
 
+// 2020 Easter event
+24539 // '24-carat' sword
+
 // 2020 Halloween event
 24975 // Headless head
 24977 // Magical pumpkin
 24992 // Spider snack
 
 // 2021 Birthday event
+25502 // Banana cape
 25500 // Cursed banana
 
 // 2021 Christmas event
@@ -172,12 +183,14 @@ the main-game economy (53 cards, listed at the end).
 26286 // Clean platebody
 26288 // Clean platelegs
 26312 // Festive elf hat
+26310 // Festive elf slippers
 26284 // Pink stained full helm
 26280 // Pink stained platebody
 26282 // Pink stained platelegs
 26314 // Snowman ring
 
 // 2021 Easter event
+25604 // Gregg's eastdoor
 25606 // Propeller hat
 
 // 2021 Halloween event
@@ -185,8 +198,15 @@ the main-game economy (53 cards, listed at the end).
 26247 // Pumpkin pie
 26256 // Ugly halloween jumper
 
+// 2022 Birthday event
+26645 // Banana pizza
+26649 // Skis
+26600 // Tiny fish
+
 // 2022 Christmas event
 27566 // Christmas jumper
+27588 // Festive games crown
+27561 // Light beer
 27578 // Nutcracker boots
 27576 // Nutcracker hat
 27580 // Nutcracker staff
@@ -208,13 +228,19 @@ the main-game economy (53 cards, listed at the end).
 
 // 2022 Halloween event
 27463 // Treat cauldron (variants: 27467, 27471)
+27479 // Witch boots
+27481 // Witch cape
 27473 // Witch hat
+27477 // Witch robes
+27475 // Witch top
 
 // 2022 Pride event
 27039 // Beautiful yellow pansy seed
 27035 // Flower crown (variants: 27143, 27147, 27151, 27155)
 
 // 2023 Birthday event
+27820 // 10th birthday balloons
+27812 // 10th birthday cape
 27806 // Bob the cat slippers
 27804 // Cake hat
 27810 // Dragon candle dagger
@@ -226,22 +252,32 @@ the main-game economy (53 cards, listed at the end).
 27814 // Jad plush
 27808 // Jad slippers
 27822 // Oldschool jumper (variants: 27823, 27824, 27825, 27826, 27827)
+27828 // Silver partyhat
 27816 // Stray dog plush
 
 // 2023 Christmas event
+28786 // Icy jumper
 28788 // Snowglobe helmet
 
 // 2023 Easter event
 27873 // Eastfloor spade
+27871 // Giant bronze dagger
 27875 // Nest hat
 
 // 2023 Halloween event
+28601 // Cobweb cape
 28603 // Spider hat (variants: 28607, 28611)
+28671 // Web cloak
 
 // 2023 Pride event
+28128 // Love crossbow
+28126 // Poet's jacket
 28116 // Rainbow jumper (variants: 28119, 28121, 28123, 28125)
 
 // 2024 Christmas event
+30491 // Dog boots
+30487 // Dog disguise
+30489 // Festive scarf
 30479 // Present box hat (variants: 30483)
 
 // 2024 Easter event
@@ -264,7 +300,10 @@ the main-game economy (53 cards, listed at the end).
 30646 // Classic imp tail
 
 // 2025 Christmas event
+32930 // Beer belly sweater
 32934 // Christmas dinner
+32932 // Jad jumper
+32928 // Lovley jubbly bib
 32926 // Serving platter
 
 // 2025 Easter event
@@ -278,13 +317,30 @@ the main-game economy (53 cards, listed at the end).
 31231 // Grim reaper bottoms
 31233 // Grim reaper gloves
 31229 // Grim reaper top
+14815 // Spooky chair (variants: 31225)
+31227 // Spooky pumpkin lantern
+31224 // Spooky scarecrow
+31223 // Spooky wall lamp
 
 // 2026 Easter event
 33146 // Scribbled notes
 
 // 20th Anniversary event
+25328 // 20th anniversary boots
+25326 // 20th anniversary bottom
+25334 // 20th anniversary cape
+25330 // 20th anniversary gloves
+25322 // 20th anniversary hat
+25332 // 20th anniversary necklace
+25324 // 20th anniversary top
 25338 // Gnome child icon
 25336 // Gnome child mask
+
+// 25th Anniversary event
+33086 // 25th anniversary 5x5 hat
+33080 // 25th anniversary helmet
+33084 // 25th anniversary skeleton tabard
+33082 // 25th anniversary warrior tabard
 
 // Christmas corrupt cluefest
 20838 // Corrupted helm
@@ -299,6 +355,9 @@ the main-game economy (53 cards, listed at the end).
 12893 // Antisanta jacket
 12892 // Antisanta mask
 12894 // Antisanta pantaloons
+20773 // Banshee mask
+20777 // Banshee robe
+20775 // Banshee top
 11862 // Black partyhat
 6856 // Bobble hat
 6857 // Bobble scarf
@@ -362,84 +421,33 @@ the main-game economy (53 cards, listed at the end).
 6863 // Woolly scarf
 4079 // Yo-yo (variants: 2261, 2262, 2263, 2264, 2265)
 
-// Halloween event
-31224 // Spooky scarecrow
-31223 // Spooky wall lamp
-
 ```
 
 ---
 
-## 2. Diango reclaimables (59)
+## 2. Diango reclaimables (12)
 
 Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 
 ```
 // Diango reclaimable
-24539 // '24-carat' sword
-27820 // 10th birthday balloons
-27812 // 10th birthday cape
-25328 // 20th anniversary boots
-25326 // 20th anniversary bottom
-25334 // 20th anniversary cape
-25330 // 20th anniversary gloves
-25322 // 20th anniversary hat
-25332 // 20th anniversary necklace
-25324 // 20th anniversary top
-33086 // 25th anniversary 5x5 hat
-33080 // 25th anniversary helmet
-33084 // 25th anniversary skeleton tabard
-33082 // 25th anniversary warrior tabard
 13218 // Amur leopard toy
-25502 // Banana cape
 25840 // Banana hat
-20773 // Banshee mask
-20777 // Banshee robe
-20775 // Banshee top
 11705 // Beach boxing gloves
-32930 // Beer belly sweater
-21209 // Birthday balloons
-28601 // Cobweb cape
 11708 // Cursed goblin bow
 11707 // Cursed goblin hammer
 11709 // Cursed goblin staff
-30491 // Dog boots
-30487 // Dog disguise
-26310 // Festive elf slippers
-27588 // Festive games crown
-30489 // Festive scarf
-27871 // Giant bronze dagger
 12727 // Goblin paint cannon
-25604 // Gregg's eastdoor
-28786 // Icy jumper
-13344 // Inverted santa hat
-32932 // Jad jumper
 13216 // Lion toy
-28128 // Love crossbow
-32928 // Lovley jubbly bib
 27645 // Mystic cards
-28126 // Poet's jacket
 21695 // Runefest shield
-27828 // Silver partyhat
-26649 // Skis
 13217 // Snow leopard toy
-24323 // Spookier boots
-24321 // Spookier gloves
-24319 // Spookier skirt
-14815 // Spooky chair (variants: 31225)
-31227 // Spooky pumpkin lantern
-22713 // Star-face
 13215 // Tiger toy
-28671 // Web cloak
-27479 // Witch boots
-27481 // Witch cape
-27477 // Witch robes
-27475 // Witch top
 ```
 
 ---
 
-## 3. Limited-time / discontinued / unobtainable (29)
+## 3. Limited-time / discontinued / unobtainable (31)
 
 ```
 // Discontinued content
@@ -462,6 +470,9 @@ Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 20607 // Rune arrow pack
 3062 // Strange box
 
+// Discontinued content, Unobtainable items
+12656 // Junk
+
 // Unobtainable items
 8858 // 18lb shot
 8859 // 22lb shot
@@ -470,6 +481,7 @@ Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 25280 // Essence pack
 11427 // Fish vial
 9595 // Hazelmere's book
+30939 // Mind mender
 4238 // Puddle of slime
 11848 // Rancid turkey
 1460 // Soul talisman
@@ -479,7 +491,7 @@ Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 
 ---
 
-## 4. Temporary gamemode items — DMM / Leagues (14)
+## 4. Temporary gamemode items — DMM / Leagues (23)
 
 ```
 // Deadman Mode
@@ -487,15 +499,24 @@ Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 
 // Deadman Mode, Deadman seasonal items
 12746 // Archaic emblem (variants: 12749, 12751, 12753, 12755)
+30689 // Trinket dust
 
 // Deadman: Annihilation, Deadman seasonal items
+15547 // Big Evil Chicken   [Monster card]
+15553 // I DSCIM YOU   [Monster card]
 15557 // TzTok-Jad-Rek   [Monster card]
+15558 // Zemouregal Summon (variants: 15560, 15562)   [Monster card]
+
+// Deadman: Annihilation, Deadman: Apocalypse, Deadman: Armageddon, Deadman seasonal items
+12452 // Giant goblin   [Monster card]
 
 // Deadman: Annihilation, Deadman: Armageddon, Deadman seasonal items
+13663 // Magic Mark   [Monster card]
 13664 // Ranging Ro   [Monster card]
 
 // Demonic Pacts League
 33338 // Demonic slayer helmet
+33218 // Knapsack
 28771 // Searing boots
 33231 // Soul shard
 
@@ -503,9 +524,15 @@ Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 30340 // Crystal dagger
 30357 // Forager's pouch
 
+// Demonic Pacts League, Raging Echoes League, Shattered Relics League, Trailblazer Reloaded League
+26551 // Arcane grimoire
+
 // Shattered Relics League
 27645 // Mystic cards
 26549 // Portable waystone
+
+// Trailblazer Reloaded League
+12561 // Bloodthirst rockslug   [Monster card]
 
 // Twisted League
 28595 // Twisted extract
@@ -530,7 +557,7 @@ applies — most are permanently killable (`Dharok the Wretched`, `Demonic goril
 
 ---
 
-## Kept: tradeable — NOT for removal (53)
+## Kept: tradeable — NOT for removal (54)
 
 ```
 // Event
@@ -582,10 +609,11 @@ applies — most are permanently killable (`Dharok the Wretched`, `Demonic goril
 33342 // Demonic quill
 33296 // Demonic sceptre
 33302 // Demonic skin contract
-????? // Demonic staff ornament kit
+33308 // Demonic staff ornament kit
 ????? // Demonic tallow
-????? // Demonic trident ornament kit
+33311 // Demonic trident ornament kit
 30432 // Echo venator bow ornament kit
+33365 // Impish whistle
 26424 // Shattered banner
 26517 // Shattered cane
 26528 // Shattered cannon ornament kit
@@ -595,6 +623,11 @@ applies — most are permanently killable (`Dharok the Wretched`, `Demonic goril
 24391 // Twisted trousers
 
 ```
+Tradeability is taken from the OSRS Wiki, which overrides `Card.json` where they disagree.
+That happens exactly once in the flagged set: `White toy horsey` is marked `tradeable: true`
+in `Card.json` but has no Tradeable/GE category on the wiki (unlike its black/brown/grey
+siblings), so it stays on the removal list.
+
 `Black h'ween mask` is **not** here — unlike the red/green/blue masks it is an untradeable
 2013 event reward, so it stays on the removal list. League/DMM entries are tradeable only
 *within* their gamemode; parked here per your call.
