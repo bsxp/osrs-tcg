@@ -1,45 +1,5 @@
 [
   {
-    "name": "10th birthday balloons",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/10th_birthday_balloons_detail.png/130px-10th_birthday_balloons_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "Double digits!",
-    "value": 0,
-    "equipmentSlot": "weapon"
-  },
-  {
-    "name": "10th birthday cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/10th_birthday_cape_detail.png/130px-10th_birthday_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A cape made from a certain red and gold banner...where have I seen this before?",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "18lb shot",
     "category": [
       "Resource"
@@ -14071,27 +14031,6 @@
     "value": 500
   },
   {
-    "name": "Bob the cat slippers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bob_the_cat_slippers_detail.png/130px-Bob_the_cat_slippers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "No cats were harmed in the making of these slippers.",
-    "value": 10000,
-    "equipmentSlot": "feet"
-  },
-  {
     "name": "Bob\u0027s black shirt",
     "category": [
       "Resource",
@@ -19082,26 +19021,6 @@
     ],
     "examine": "A plain sponge cake.",
     "value": 50
-  },
-  {
-    "name": "Cake hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cake_hat_detail.png/130px-Cake_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Fashionable and delicious.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Cake tin",
@@ -27677,26 +27596,6 @@
     "value": 5000
   },
   {
-    "name": "Dragon candle dagger",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Dragon_candle_dagger_detail.png/130px-Dragon_candle_dagger_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "A candle lit by the fire of a dragon.",
-    "value": 1,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Dragon cane",
     "category": [
       "Resource",
@@ -29452,23 +29351,6 @@
     ],
     "examine": "Never let your home get like this (Provides access to the deeper parts of Taverley Dungeon).",
     "value": 1
-  },
-  {
-    "name": "Dwarf cake",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Dwarf_cake_detail.png/130px-Dwarf_cake_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Pie might just about meet the critera .",
-    "value": 12
   },
   {
     "name": "Dwarf weed",
@@ -37753,43 +37635,6 @@
     "equipmentSlot": "hands"
   },
   {
-    "name": "Gnome cake",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gnome_cake_detail.png/130px-Gnome_cake_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "The Gnome Child has done a fantastic job baking this!",
-    "value": 2
-  },
-  {
-    "name": "Gnome child backpack",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gnome_child_backpack_detail.png/130px-Gnome_child_backpack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Wait...who\u0027s wearing who in this situation?!",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Gnome child icon",
     "category": [
       "Resource"
@@ -37825,27 +37670,6 @@
     "examine": "The smile of childlike innocence.",
     "value": 0,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Gnome child plush",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gnome_child_plush_detail.png/130px-Gnome_child_plush_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "An adorable plushy based on a familiar face!",
-    "value": 1,
-    "equipmentSlot": "shield"
   },
   {
     "name": "Gnome goggles",
@@ -38021,23 +37845,6 @@
     ],
     "examine": "A tattered goblin holy book.",
     "value": 1
-  },
-  {
-    "name": "Goblin cake",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Goblin_cake_detail.png/130px-Goblin_cake_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "It\u0027s only meant to look like chocolate.",
-    "value": 70
   },
   {
     "name": "Goblin champion scroll",
@@ -47368,48 +47175,6 @@
     "examine": "This will definitely keep me warm!",
     "value": 1,
     "equipmentSlot": "body"
-  },
-  {
-    "name": "Jad plush",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jad_plush_detail.png/130px-Jad_plush_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "An adorable plushy based on a familiar face!",
-    "value": 1,
-    "equipmentSlot": "shield"
-  },
-  {
-    "name": "Jad slippers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jad_slippers_detail.png/130px-Jad_slippers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "Look out, here comes ToesTok-Jad!",
-    "value": 1,
-    "equipmentSlot": "feet"
   },
   {
     "name": "Jade",
@@ -60513,27 +60278,6 @@
     ],
     "examine": "Difficult to read.",
     "value": 2
-  },
-  {
-    "name": "Oldschool jumper",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Oldschool_jumper_detail.png/130px-Oldschool_jumper_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A cosy piece of Oldschool memorabilia!",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Olive oil pack",
@@ -76684,26 +76428,6 @@
     "value": 1
   },
   {
-    "name": "Silver partyhat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Silver_partyhat_detail.png/130px-Silver_partyhat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A nice silver hat commemorating 10 years of Oldschool!",
-    "value": 250000,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Silver sickle",
     "category": [
       "Resource",
@@ -82000,27 +81724,6 @@
     ],
     "examine": "A strawberry seed - plant in an allotment.",
     "value": 18
-  },
-  {
-    "name": "Stray dog plush",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Stray_dog_plush_detail.png/130px-Stray_dog_plush_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "An adorable plushy based on a familiar face!",
-    "value": 1,
-    "equipmentSlot": "shield"
   },
   {
     "name": "Strength mix",
