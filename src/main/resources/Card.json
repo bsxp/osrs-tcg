@@ -21521,60 +21521,6 @@
     "value": 1
   },
   {
-    "name": "Clean full helm",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clean_full_helm_detail.png/130px-Clean_full_helm_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Sir Vyvin\u0027s cleaned full helm.",
-    "value": 0
-  },
-  {
-    "name": "Clean platebody",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clean_platebody_detail.png/130px-Clean_platebody_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Sir Vyvin\u0027s cleaned platebody.",
-    "value": 0
-  },
-  {
-    "name": "Clean platelegs",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clean_platelegs_detail.png/130px-Clean_platelegs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Sir Vyvin\u0027s cleaned platelegs.",
-    "value": 0
-  },
-  {
     "name": "Cleaning cloth",
     "category": [
       "Resource"
@@ -33901,46 +33847,6 @@
     ],
     "examine": "It likes ferreting around.",
     "value": 40
-  },
-  {
-    "name": "Festive elf hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Festive_elf_hat_detail.png/130px-Festive_elf_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A woolly festive hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Festive elf slippers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Festive_elf_slippers_detail.png/130px-Festive_elf_slippers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A pair of festive slippers.",
-    "value": 1,
-    "equipmentSlot": "feet"
   },
   {
     "name": "Festive games crown",
@@ -63762,60 +63668,6 @@
     "equipmentSlot": "legs"
   },
   {
-    "name": "Pink stained full helm",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Pink_stained_full_helm_detail.png/130px-Pink_stained_full_helm_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Sir Vyvin\u0027s pink stained full helm. Oops.",
-    "value": 0
-  },
-  {
-    "name": "Pink stained platebody",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Pink_stained_platebody_detail.png/130px-Pink_stained_platebody_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Sir Vyvin\u0027s pink stained platebody. Oops.",
-    "value": 0
-  },
-  {
-    "name": "Pink stained platelegs",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Pink_stained_platelegs_detail.png/130px-Pink_stained_platelegs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Sir Vyvin\u0027s pink stained platelegs. Oops.",
-    "value": 0
-  },
-  {
     "name": "Pirate boots",
     "category": [
       "Resource",
@@ -79194,26 +79046,6 @@
     "examine": "Festive, functional, and fashionable!",
     "value": 1,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Snowman ring",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snowman_ring_detail.png/130px-Snowman_ring_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A magical snowy ring.",
-    "value": 1,
-    "equipmentSlot": "ring"
   },
   {
     "name": "Snowy knight mix",
