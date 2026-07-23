@@ -52036,26 +52036,6 @@
     "value": 80
   },
   {
-    "name": "Love crossbow",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Love_crossbow_detail.png/130px-Love_crossbow_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "You gotta really put your heart into firing this thing.",
-    "value": 1,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Lovley jubbly bib",
     "category": [
       "Resource",
@@ -63401,26 +63381,6 @@
     "value": 200
   },
   {
-    "name": "Poet\u0027s jacket",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Poet%27s_jacket_detail.png/130px-Poet%27s_jacket_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "I wish to find inspiration! Will this jacket help?",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Pointed blood\u0027n\u0027tar snelm",
     "category": [
       "Resource",
@@ -66045,27 +66005,6 @@
     ],
     "examine": "Well, this would certainly add some colour to a meal.",
     "value": 120
-  },
-  {
-    "name": "Rainbow jumper",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rainbow_jumper_detail.png/130px-Rainbow_jumper_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "Colourful, warm and fashionable!",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Rainbow partyhat",
