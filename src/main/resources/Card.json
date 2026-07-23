@@ -20100,27 +20100,6 @@
     "value": 5
   },
   {
-    "name": "Cat ears",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cat_ears_detail.png/130px-Cat_ears_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Chase",
-      "Destroy"
-    ],
-    "examine": "Meeeooow.",
-    "value": 500,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Cat mask",
     "category": [
       "Resource",
@@ -44054,27 +44033,6 @@
     ],
     "examine": "A heavy wooden frame.",
     "value": 50000
-  },
-  {
-    "name": "Hell cat ears",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Hell_cat_ears_detail.png/130px-Hell_cat_ears_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Revert",
-      "Destroy"
-    ],
-    "examine": "A hellish piece of head gear.",
-    "value": 500,
-    "equipmentSlot": "head"
   },
   {
     "name": "Hellcat",
