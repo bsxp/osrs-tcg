@@ -10437,23 +10437,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Birthday present",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Birthday_present_detail.png/130px-Birthday_present_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "A present to the community from Mods Ash, Reach, Mat K \u0026 John C.",
-    "value": 30
-  },
-  {
     "name": "Black 2h sword",
     "category": [
       "Resource",
@@ -24098,26 +24081,6 @@
     "equipmentSlot": "hands"
   },
   {
-    "name": "Cow mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cow_mask_detail.png/130px-Cow_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "It looks like a cow\u0027s head.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Cow shoes",
     "category": [
       "Resource",
@@ -24972,30 +24935,6 @@
     "examine": "Smells of victory.",
     "value": 30000,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Crystal halberd",
-    "category": [
-      "Resource",
-      "Weapon",
-      "Tirannwn",
-      "Kandarin"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Crystal_halberd_detail.png/130px-Crystal_halberd_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Check",
-      "Revert",
-      "Drop"
-    ],
-    "examine": "A nice sturdy pike.",
-    "value": 300000,
-    "equipmentSlot": "2h"
   },
   {
     "name": "Crystal harpoon",
@@ -93574,23 +93513,6 @@
     "examine": "The blood of the soldier makes the glory of the general.",
     "value": 80,
     "equipmentSlot": "ammo"
-  },
-  {
-    "name": "War ship",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/War_ship_detail.png/130px-War_ship_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "A model of a Karamja warship.",
-    "value": 2
   },
   {
     "name": "Ward upgrade kit",
