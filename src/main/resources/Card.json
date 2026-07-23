@@ -44908,26 +44908,6 @@
     "value": 90
   },
   {
-    "name": "Icy jumper",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Icy_jumper_detail.png/130px-Icy_jumper_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The coolest jumper ever!",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Ideology of darkness",
     "category": [
       "Resource"
@@ -78307,26 +78287,6 @@
     ],
     "examine": "A snow leopard toy.",
     "value": 100
-  },
-  {
-    "name": "Snowglobe helmet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snowglobe_helmet_detail.png/130px-Snowglobe_helmet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Festive, functional, and fashionable!",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Snowy knight mix",
