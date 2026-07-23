@@ -22513,26 +22513,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Corrupted platebody",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Corrupted_platebody_detail.png/130px-Corrupted_platebody_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The platebody of a forgotten warrior, corrupted by the dark altar.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Corrupted bowstring",
     "category": [
       "Resource"
@@ -22603,66 +22583,6 @@
     "examine": "A very powerful harpoon.",
     "value": 1,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Corrupted helm",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Corrupted_helm_detail.png/130px-Corrupted_helm_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The helmet of a forgotton warrior, corrupted by the dark altar.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Corrupted kiteshield",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Corrupted_kiteshield_detail.png/130px-Corrupted_kiteshield_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The kiteshield of a forgotton warrior, corrupted by the dark altar.",
-    "value": 1,
-    "equipmentSlot": "shield"
-  },
-  {
-    "name": "Corrupted platelegs",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Corrupted_platelegs_detail.png/130px-Corrupted_platelegs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The platelegs of a forgotten warrior, corrupted by the dark altar.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Corrupted orb",
@@ -22736,26 +22656,6 @@
     "examine": "If rocks could feel fear, they\u0027d fear this.",
     "value": 1,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Corrupted plateskirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Corrupted_plateskirt_detail.png/130px-Corrupted_plateskirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The plateskirt of a forgotten warrior, corrupted by the dark altar.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Corrupted sceptre",
