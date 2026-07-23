@@ -27719,26 +27719,6 @@
     "value": 40
   },
   {
-    "name": "Diving helmet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Diving_helmet_detail.png/130px-Diving_helmet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A rudimentary diving helmet.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Dizana\u0027s quiver",
     "category": [
       "Resource",
@@ -48873,26 +48853,6 @@
     ],
     "examine": "It\u0027s a challenge from the Jogre Champion!",
     "value": 50000
-  },
-  {
-    "name": "Jonas mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jonas_mask_detail.png/130px-Jonas_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Too spoopy.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Jug",
@@ -80225,23 +80185,6 @@
     "value": 0
   },
   {
-    "name": "Spectral potion",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spectral_potion_detail.png/130px-Spectral_potion_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "A potion that emanates with dark, ghostly power.",
-    "value": 0
-  },
-  {
     "name": "Spectral sigil",
     "category": [
       "Resource",
@@ -85691,24 +85634,6 @@
     "examine": "A thick, foul-smelling, tar-like substance with a red tinge.",
     "value": 1,
     "equipmentSlot": "ammo"
-  },
-  {
-    "name": "Tattered book",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tattered_book_detail.png/130px-Tattered_book_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Destroy"
-    ],
-    "examine": "An old, tattered book.",
-    "value": 0
   },
   {
     "name": "Tattered moon page",
