@@ -45549,26 +45549,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Hunting knife",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Hunting_knife_detail.png/130px-Hunting_knife_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "It\u0027s so stabby, do do do-do-do doooo.",
-    "value": 1,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Hunting mix",
     "category": [
       "Resource",
