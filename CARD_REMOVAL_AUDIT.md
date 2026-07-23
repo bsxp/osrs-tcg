@@ -5,6 +5,9 @@ Classification is from live OSRS Wiki page categories (fetched per-card), not ke
 
 **388 cards flagged** across the five requested categories.
 
+**(T)** = tradeable / Grand Exchange item. Only 17 of 252 event items are tradeable —
+they are the discontinued rares. See the dedicated section below.
+
 | Category | Cards |
 |---|---|
 | Event / holiday / anniversary | 252 |
@@ -20,9 +23,9 @@ Classification is from live OSRS Wiki page categories (fetched per-card), not ke
 
 **2005** (1): Zombie head
 
-**2013** (11): Black h'ween mask, Green halloween mask, Jack lantern mask, Pumpkin, Red halloween mask, Reindeer hat, Skeleton boots, Skeleton gloves, Skeleton leggings, Skeleton mask, Skeleton shirt
+**2013** (11): Black h'ween mask, Green halloween mask **(T)**, Jack lantern mask, Pumpkin **(T)**, Red halloween mask **(T)**, Reindeer hat, Skeleton boots, Skeleton gloves, Skeleton leggings, Skeleton mask, Skeleton shirt
 
-**2014** (18): Antisanta's coal box, Birthday present, Blue marionette, Bunny ears, Chocolate strawberry, Cow mask, Crystal halberd, Easter basket, Green marionette, Grim reaper hood, Grim reaper's diary, Grim robe, Marionette handle, Red marionette, Scythe sharpener, Tree bauble, War ship, Will and testament
+**2014** (18): Antisanta's coal box, Birthday present, Blue marionette, Bunny ears, Chocolate strawberry **(T)**, Cow mask, Crystal halberd, Easter basket, Green marionette, Grim reaper hood, Grim reaper's diary, Grim robe, Marionette handle, Red marionette, Scythe sharpener, Tree bauble, War ship, Will and testament
 
 **2015** (3): Black santa hat, Diango's claws, Volatile mineral
 
@@ -36,7 +39,7 @@ Classification is from live OSRS Wiki page categories (fetched per-card), not ke
 
 **2020** (7): Cat ears, Giant boulder, Headless head, Hell cat ears, Magical pumpkin, Mouldy sawdust, Spider snack
 
-**2021** (14): Ad coupon, Clean full helm, Clean platebody, Clean platelegs, Cursed banana, Festive elf hat, Newspaper, Pink stained full helm, Pink stained platebody, Pink stained platelegs, Propeller hat, Pumpkin pie, Snowman ring, Ugly halloween jumper
+**2021** (14): Ad coupon, Clean full helm, Clean platebody, Clean platelegs, Cursed banana, Festive elf hat, Newspaper **(T)**, Pink stained full helm, Pink stained platebody, Pink stained platelegs, Propeller hat, Pumpkin pie, Snowman ring, Ugly halloween jumper
 
 **2022** (21): Beautiful yellow pansy seed, Big bucket, Big bucket of camel milk, Christmas jumper, Cooler, Crate ring, Easter hat, Flower crown, Nutcracker boots, Nutcracker hat, Nutcracker staff, Nutcracker top, Nutcracker trousers, Sack of coal, Snow goggles & hat, Special hot sauce, Special super hot kebab, Tanning wheel, Treat cauldron, Witch hat, Wooden pole
 
@@ -50,7 +53,7 @@ Classification is from live OSRS Wiki page categories (fetched per-card), not ke
 
 **Anniversary** (2): Gnome child icon, Gnome child mask
 
-**Event rewards** (86): Antisanta boots, Antisanta gloves, Antisanta jacket, Antisanta mask, Antisanta pantaloons, Black partyhat, Blue halloween mask, Blue partyhat, Bobble hat, Bobble scarf, Bunny feet, Candy cane, Chicken feet, Chicken head, Chicken legs, Chicken wings, Christmas cracker, Clue hunter boots, Clue hunter cloak, Clue hunter garb, Clue hunter gloves, Clue hunter trousers, Corrupted helm, Corrupted kiteshield, Corrupted platebody, Corrupted platelegs, Corrupted plateskirt, Cow gloves, Cow shoes, Cow top, Cow trousers, Disk of returning, Druidic wreath, Easter egg, Easter egg helm, Easter ring, Eggshell platebody, Eggshell platelegs, Gravedigger boots, Gravedigger gloves, Gravedigger leggings, Gravedigger mask, Gravedigger top, Green partyhat, Half full wine jug, Hand fan, Helm of raedwald, Hood of ruin, Hornwood helm, Infinite money bag, Jester hat, Jester scarf, Mask of balance, Ornate boots, Ornate cape, Ornate gloves, Ornate helm, Ornate legs, Ornate top, Purple partyhat, Rainbow partyhat, Rainbow scarf, Red partyhat, Rubber chicken, Santa boots, Santa gloves, Santa hat, Santa jacket, Santa mask, Santa pantaloons, Snow imp costume body, Snow imp costume feet, Snow imp costume gloves, Snow imp costume head, Snow imp costume legs, Snow imp costume tail, Spooky scarecrow, Spooky wall lamp, Tri-jester hat, Tri-jester scarf, White partyhat, Wise old man's santa hat, Woolly hat, Woolly scarf, Yellow partyhat, Yo-yo
+**Event rewards** (86): Antisanta boots, Antisanta gloves, Antisanta jacket, Antisanta mask, Antisanta pantaloons, Black partyhat, Blue halloween mask **(T)**, Blue partyhat **(T)**, Bobble hat, Bobble scarf, Bunny feet, Candy cane, Chicken feet, Chicken head, Chicken legs, Chicken wings, Christmas cracker **(T)**, Clue hunter boots, Clue hunter cloak, Clue hunter garb, Clue hunter gloves, Clue hunter trousers, Corrupted helm, Corrupted kiteshield, Corrupted platebody, Corrupted platelegs, Corrupted plateskirt, Cow gloves, Cow shoes, Cow top, Cow trousers, Disk of returning **(T)**, Druidic wreath, Easter egg **(T)**, Easter egg helm, Easter ring, Eggshell platebody, Eggshell platelegs, Gravedigger boots, Gravedigger gloves, Gravedigger leggings, Gravedigger mask, Gravedigger top, Green partyhat **(T)**, Half full wine jug **(T)**, Hand fan, Helm of raedwald, Hood of ruin, Hornwood helm, Infinite money bag, Jester hat, Jester scarf, Mask of balance, Ornate boots, Ornate cape, Ornate gloves, Ornate helm, Ornate legs, Ornate top, Purple partyhat **(T)**, Rainbow partyhat, Rainbow scarf, Red partyhat **(T)**, Rubber chicken, Santa boots, Santa gloves, Santa hat **(T)**, Santa jacket, Santa mask, Santa pantaloons, Snow imp costume body, Snow imp costume feet, Snow imp costume gloves, Snow imp costume head, Snow imp costume legs, Snow imp costume tail, Spooky scarecrow, Spooky wall lamp, Tri-jester hat, Tri-jester scarf, White partyhat **(T)**, Wise old man's santa hat, Woolly hat, Woolly scarf, Yellow partyhat **(T)**, Yo-yo
 
 ---
 
@@ -58,7 +61,7 @@ Classification is from live OSRS Wiki page categories (fetched per-card), not ke
 
 Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
 
-'24-carat' sword, 10th birthday balloons, 10th birthday cape, 20th anniversary boots, 20th anniversary bottom, 20th anniversary cape, 20th anniversary gloves, 20th anniversary hat, 20th anniversary necklace, 20th anniversary top, 25th anniversary 5x5 hat, 25th anniversary helmet, 25th anniversary skeleton tabard, 25th anniversary warrior tabard, Amur leopard toy, Banana cape, Banana hat, Banshee mask, Banshee robe, Banshee top, Beach boxing gloves, Beer belly sweater, Birthday balloons, Black toy horsey, Brown toy horsey, Cobweb cape, Cursed goblin bow, Cursed goblin hammer, Cursed goblin staff, Dog boots, Dog disguise, Festive elf slippers, Festive games crown, Festive scarf, Giant bronze dagger, Goblin paint cannon, Gregg's eastdoor, Grey toy horsey, Icy jumper, Inverted santa hat, Jad jumper, Lion toy, Love crossbow, Lovley jubbly bib, Mystic cards, Poet's jacket, Runefest shield, Silver partyhat, Skis, Snow leopard toy, Spookier boots, Spookier gloves, Spookier skirt, Spooky chair, Spooky pumpkin lantern, Star-face, Tiger toy, Web cloak, White toy horsey, Witch boots, Witch cape, Witch robes, Witch top
+'24-carat' sword, 10th birthday balloons, 10th birthday cape, 20th anniversary boots, 20th anniversary bottom, 20th anniversary cape, 20th anniversary gloves, 20th anniversary hat, 20th anniversary necklace, 20th anniversary top, 25th anniversary 5x5 hat, 25th anniversary helmet, 25th anniversary skeleton tabard, 25th anniversary warrior tabard, Amur leopard toy, Banana cape, Banana hat, Banshee mask, Banshee robe, Banshee top, Beach boxing gloves, Beer belly sweater, Birthday balloons, Black toy horsey **(T)**, Brown toy horsey **(T)**, Cobweb cape, Cursed goblin bow, Cursed goblin hammer, Cursed goblin staff, Dog boots, Dog disguise, Festive elf slippers, Festive games crown, Festive scarf, Giant bronze dagger, Goblin paint cannon, Gregg's eastdoor, Grey toy horsey **(T)**, Icy jumper, Inverted santa hat, Jad jumper, Lion toy, Love crossbow, Lovley jubbly bib, Mystic cards, Poet's jacket, Runefest shield, Silver partyhat, Skis, Snow leopard toy, Spookier boots, Spookier gloves, Spookier skirt, Spooky chair, Spooky pumpkin lantern, Star-face, Tiger toy, Web cloak, White toy horsey **(T)**, Witch boots, Witch cape, Witch robes, Witch top
 
 ---
 
@@ -67,11 +70,11 @@ Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
 - `18lb shot` — Unobtainable items
 - `22lb shot` — Unobtainable items
 - `Adamant arrow pack` — Discontinued content
-- `Ancient magicks tablet` — Discontinued content
-- `Ancient mjolnir` — Unobtainable items
+- `Ancient magicks tablet` **(T)** — Discontinued content
+- `Ancient mjolnir` **(T)** — Unobtainable items
 - `Antique emblem` — Discontinued content
 - `Astral tiara` — Unobtainable items
-- `Ball of cotton` — Unobtainable items
+- `Ball of cotton` **(T)** — Unobtainable items
 - `Barbarian skills` — Discontinued content
 - `Battlehat` — Discontinued content
 - `Blighted bind sack` — Discontinued content
@@ -79,35 +82,35 @@ Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
 - `Blighted wave sack` — Discontinued content
 - `Bloodthirst rockslug` — Discontinued content
 - `Broken plate` — Unobtainable items
-- `Burnt chompy` — Unobtainable items
-- `Burnt pitta bread` — Unobtainable items
+- `Burnt chompy` **(T)** — Unobtainable items
+- `Burnt pitta bread` **(T)** — Unobtainable items
 - `Catalytic rune pack` — Discontinued content
 - `Dark manuscript` — Discontinued content
 - `Elemental rune pack` — Discontinued content
-- `Equa toad's legs` — Unobtainable items
+- `Equa toad's legs` **(T)** — Unobtainable items
 - `Essence pack` — Unobtainable items
-- `Farmer's fork` — Unobtainable items
+- `Farmer's fork` **(T)** — Unobtainable items
 - `Fish chunks` — Discontinued content
 - `Fish vial` — Unobtainable items
 - `Fresh fish` — Discontinued content
 - `Hazelmere's book` — Unobtainable items
 - `Mysterious emblem` — Discontinued content
-- `Not meat` — Discontinued content, Unobtainable items
-- `Odd batta` — Unobtainable items
-- `Odd cocktail` — Unobtainable items
-- `Odd crunchies` — Unobtainable items
-- `Odd gnomebowl` — Unobtainable items
+- `Not meat` **(T)** — Discontinued content, Unobtainable items
+- `Odd batta` **(T)** — Unobtainable items
+- `Odd cocktail` **(T)** — Unobtainable items
+- `Odd crunchies` **(T)** — Unobtainable items
+- `Odd gnomebowl` **(T)** — Unobtainable items
 - `Portable waystone` — Discontinued content
 - `Puddle of slime` — Unobtainable items
 - `Rancid turkey` — Unobtainable items
-- `Rock-climbing boots` — Unobtainable items
+- `Rock-climbing boots` **(T)** — Unobtainable items
 - `Rowdy Guard` — Discontinued content
 - `Rune arrow pack` — Discontinued content
-- `Seasoned legs` — Unobtainable items
+- `Seasoned legs` **(T)** — Unobtainable items
 - `Soul talisman` — Unobtainable items
-- `Spicy toad's legs` — Unobtainable items
-- `Spicy worm` — Unobtainable items
-- `Spirit roots` — Unobtainable items
+- `Spicy toad's legs` **(T)** — Unobtainable items
+- `Spicy worm` **(T)** — Unobtainable items
+- `Spirit roots` **(T)** — Unobtainable items
 - `Strange box` — Discontinued content
 - `Wimpy feather` — Unobtainable items
 
@@ -118,30 +121,30 @@ Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
 - `Archaic emblem` — Deadman Mode, Deadman seasonal items
 - `Bank key` — Deadman Mode
 - `Crystal dagger` — Demonic Pacts League, Raging Echoes League
-- `Demonic axe ornament kit` — Demonic Pacts League
-- `Demonic quill` — Demonic Pacts League
-- `Demonic sceptre` — Demonic Pacts League
-- `Demonic skin contract` — Demonic Pacts League
+- `Demonic axe ornament kit` **(T)** — Demonic Pacts League
+- `Demonic quill` **(T)** — Demonic Pacts League
+- `Demonic sceptre` **(T)** — Demonic Pacts League
+- `Demonic skin contract` **(T)** — Demonic Pacts League
 - `Demonic slayer helmet` — Demonic Pacts League
-- `Demonic staff ornament kit` — Demonic Pacts League
-- `Demonic tallow` — Demonic Pacts League
-- `Demonic trident ornament kit` — Demonic Pacts League
-- `Echo venator bow ornament kit` — Raging Echoes League
+- `Demonic staff ornament kit` **(T)** — Demonic Pacts League
+- `Demonic tallow` **(T)** — Demonic Pacts League
+- `Demonic trident ornament kit` **(T)** — Demonic Pacts League
+- `Echo venator bow ornament kit` **(T)** — Raging Echoes League
 - `Forager's pouch` — Demonic Pacts League, Raging Echoes League
 - `Mystic cards` — Shattered Relics League
 - `Portable waystone` — Shattered Relics League
 - `Ranging Ro` — Deadman: Annihilation, Deadman: Armageddon, Deadman seasonal items **[Monster card]**
 - `Searing boots` — Demonic Pacts League
-- `Shattered banner` — Shattered Relics League
-- `Shattered cane` — Shattered Relics League
-- `Shattered cannon ornament kit` — Shattered Relics League
+- `Shattered banner` **(T)** — Shattered Relics League
+- `Shattered cane` **(T)** — Shattered Relics League
+- `Shattered cannon ornament kit` **(T)** — Shattered Relics League
 - `Soul shard` — Demonic Pacts League
-- `Twisted banner` — Twisted League
-- `Twisted cane` — Twisted League
+- `Twisted banner` **(T)** — Twisted League
+- `Twisted cane` **(T)** — Twisted League
 - `Twisted extract` — Twisted League
-- `Twisted horns` — Twisted League
+- `Twisted horns` **(T)** — Twisted League
 - `Twisted slayer helmet` — Twisted League
-- `Twisted trousers` — Twisted League
+- `Twisted trousers` **(T)** — Twisted League
 - `Twitcher's gloves` — Twisted League
 - `TzTok-Jad-Rek` — Deadman: Annihilation, Deadman seasonal items **[Monster card]**
 
@@ -174,6 +177,34 @@ Out of scope for an *items* audit, and the same rule applies: many are permanent
 killable (`Dharok the Wretched`, `Ahrim the Blighted`, `Demonic gorilla`, `Dagannoth mother`).
 Only true one-off quest kills (`Delrith`, `Count Draynor`, `Culinaromancer`, `Agrith Naar`,
 `Black Knight Titan`, `Balance Elemental`) would be candidates. Say the word and I can split these out.
+
+---
+
+## Tradeable event items — decide separately (17)
+
+These are event-origin but permanently tradeable on the GE, so they behave like
+normal economy items rather than limited cosmetics:
+
+- `Blue halloween mask`
+- `Blue partyhat`
+- `Chocolate strawberry`
+- `Christmas cracker`
+- `Disk of returning`
+- `Easter egg`
+- `Green halloween mask`
+- `Green partyhat`
+- `Half full wine jug`
+- `Newspaper`
+- `Pumpkin`
+- `Purple partyhat`
+- `Red halloween mask`
+- `Red partyhat`
+- `Santa hat`
+- `White partyhat`
+- `Yellow partyhat`
+
+Note `Black h'ween mask` is **not** in this list — unlike the classic red/green/blue
+masks it is an untradeable 2013 event reward.
 
 ---
 
