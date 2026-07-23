@@ -24396,23 +24396,6 @@
     "value": 5
   },
   {
-    "name": "Crunchy chocolate mix",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Crunchy_chocolate_mix_detail.png/130px-Crunchy_chocolate_mix_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "I should put this in the egg oven.",
-    "value": 1
-  },
-  {
     "name": "Crunchy tray",
     "category": [
       "Resource"
@@ -76089,23 +76072,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Sea salt",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sea_salt_detail.png/130px-Sea_salt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "The finest sea salt.",
-    "value": 1
-  },
-  {
     "name": "Sea shell",
     "category": [
       "Resource",
@@ -93534,40 +93500,6 @@
       "Drop"
     ],
     "examine": "A handful of weeds.",
-    "value": 1
-  },
-  {
-    "name": "Wester banana",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Wester_banana_detail.png/130px-Wester_banana_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "A tasty banana, plucked fresh from Wester Island.",
-    "value": 1
-  },
-  {
-    "name": "Wester fish",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Wester_fish_detail.png/130px-Wester_fish_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "A glistening wester island fish.",
     "value": 1
   },
   {
