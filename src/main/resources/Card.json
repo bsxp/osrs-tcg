@@ -11117,26 +11117,6 @@
     "equipmentSlot": "body"
   },
   {
-    "name": "Black h\u0027ween mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Black_h%27ween_mask_detail.png/130px-Black_h%27ween_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Aaaarrrghhh, I\u0027m an old-school monster!",
-    "value": 7,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Black halberd",
     "category": [
       "Resource",
@@ -48573,26 +48553,6 @@
     "value": 100
   },
   {
-    "name": "Jack lantern mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Jack_lantern_mask_detail.png/130px-Jack_lantern_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Better not light it!",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Jad jumper",
     "category": [
       "Resource",
@@ -78803,26 +78763,6 @@
     "value": 1
   },
   {
-    "name": "Skeleton boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skeleton_boots_detail.png/130px-Skeleton_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Skeleton feet.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
     "name": "Skeleton champion scroll",
     "category": [
       "Resource",
@@ -78840,26 +78780,6 @@
     ],
     "examine": "It\u0027s a challenge from the Skeleton Champion!",
     "value": 50000
-  },
-  {
-    "name": "Skeleton gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skeleton_gloves_detail.png/130px-Skeleton_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Some skeletal gloves.",
-    "value": 1,
-    "equipmentSlot": "hands"
   },
   {
     "name": "Skeleton lantern",
@@ -78880,66 +78800,6 @@
     "examine": "Alas... I\u0027m sure someone knew him well.",
     "value": 1,
     "equipmentSlot": "2h"
-  },
-  {
-    "name": "Skeleton leggings",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skeleton_leggings_detail.png/130px-Skeleton_leggings_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Does my pelvis look big in this?",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Skeleton mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skeleton_mask_detail.png/130px-Skeleton_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A scary skeleton mask.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Skeleton shirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skeleton_shirt_detail.png/130px-Skeleton_shirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The shirt of a full body skeleton costume.",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Skewer",
