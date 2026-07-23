@@ -65693,27 +65693,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Rainbow cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rainbow_cape_detail.png/130px-Rainbow_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A colourful cape, constructed with beautiful rainbow fabrics!",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Rainbow crab meat",
     "category": [
       "Resource",
@@ -65765,27 +65744,6 @@
     ],
     "examine": "You\u0027ll need something to break through that shell.",
     "value": 300
-  },
-  {
-    "name": "Rainbow crown shirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rainbow_crown_shirt_detail.png/130px-Rainbow_crown_shirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A humble shirt with a rainbow crown motif on the back!",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Rainbow fish",
