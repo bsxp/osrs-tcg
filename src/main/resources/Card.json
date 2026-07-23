@@ -17800,66 +17800,6 @@
     "equipmentSlot": "feet"
   },
   {
-    "name": "Bunny legs",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bunny_legs_detail.png/130px-Bunny_legs_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "These look furry.",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Bunny paws",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bunny_paws_detail.png/130px-Bunny_paws_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Floofy.",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Bunny top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bunny_top_detail.png/130px-Bunny_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Carrot stain resistant.",
-    "value": 50,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Bunnyman mask",
     "category": [
       "Resource",
