@@ -46127,23 +46127,6 @@
     "value": 80
   },
   {
-    "name": "Junk",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Junk_detail.png/130px-Junk_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Discard"
-    ],
-    "examine": "We\u0027d rather not give you real resources in the Clan Cup skilling arena.",
-    "value": 0
-  },
-  {
     "name": "Justiciar chestguard",
     "category": [
       "Resource",
