@@ -38558,26 +38558,6 @@
     "equipmentSlot": "cape"
   },
   {
-    "name": "Gnome child hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gnome_child_hat_detail.png/130px-Gnome_child_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Stylish, by gnome child standards.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Gnome child icon",
     "category": [
       "Resource"
