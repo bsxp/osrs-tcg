@@ -21476,23 +21476,6 @@
     "value": 1000
   },
   {
-    "name": "Church lectern",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Church_lectern_detail.png/130px-Church_lectern_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Holds books for reading aloud, stylishly.",
-    "value": 1
-  },
-  {
     "name": "Cicely",
     "category": [
       "Resource"
@@ -21800,106 +21783,6 @@
     ],
     "examine": "A step-by-step guide to crafting your very own clothes pouch!",
     "value": 100
-  },
-  {
-    "name": "Clown bow tie",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clown_bow_tie_detail.png/130px-Clown_bow_tie_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Hey, hey kids!",
-    "value": 1,
-    "equipmentSlot": "neck"
-  },
-  {
-    "name": "Clown gown",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clown_gown_detail.png/130px-Clown_gown_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Why so serious?",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Clown mask",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clown_mask_detail.png/130px-Clown_mask_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Boo!",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Clown shoes",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clown_shoes_detail.png/130px-Clown_shoes_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Great for floating.",
-    "value": 0,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Clown trousers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Clown_trousers_detail.png/130px-Clown_trousers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Puffy, stripy and colourful! There\u0027s nothing grim about these.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Clue box",
@@ -26384,23 +26267,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Dead person",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Dead_person_detail.png/130px-Dead_person_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Just because you\u0027re dead doesn\u0027t mean you stop being useful.",
-    "value": 1
-  },
-  {
     "name": "Deadeye prayer scroll",
     "category": [
       "Resource",
@@ -30723,28 +30589,6 @@
     ],
     "examine": "Slightly damp seaweed.",
     "value": 2
-  },
-  {
-    "name": "Eek",
-    "category": [
-      "Resource",
-      "Weapon",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Eek_detail.png/130px-Eek_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Hold",
-      "Talk-to",
-      "Destroy"
-    ],
-    "examine": "She\u0027s a keen spinner of webs.",
-    "value": 0,
-    "equipmentSlot": "weapon"
   },
   {
     "name": "Eel sushi",
