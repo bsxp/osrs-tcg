@@ -3,22 +3,21 @@
 Audited `src/main/resources/Card.json` @ `main` (44a9dd6) — **6,376 cards**.
 Classification is from live OSRS Wiki page categories (fetched per-card), not keyword guessing.
 
-**350 cards flagged** across the five requested categories.
+**335 cards flagged** across the five requested categories.
 
 Tradeable items are **excluded from removal** — they remain live in the main-game economy.
-38 cards were removed from the candidate list on that basis (see "Kept: tradeable" below).
+53 cards were removed from the candidate list on that basis (see "Kept: tradeable" below).
 
-**(T)** marks the DMM/League items that are tradeable *inside their gamemode* but do not
-exist in the main game — these are still recommended for removal.
+This includes DMM/League items that are tradeable inside their gamemode.
 
 | Category | Cards |
 |---|---|
 | Event / holiday / anniversary | 235 |
 | Diango reclaimables (not already event-tagged) | 59 |
 | Limited-time / discontinued / unobtainable | 29 |
-| Temporary gamemodes (DMM / Leagues) | 29 |
+| Temporary gamemodes (DMM / Leagues) | 14 |
 | Quest items | 0 — see §5, all 10 matches are permanently obtainable |
-| **Unique total** | **350** |
+| **Unique total** | **335** |
 
 ---
 
@@ -102,35 +101,20 @@ Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
 
 ---
 
-## 4. Temporary gamemode items — DMM / Leagues (29)
+## 4. Temporary gamemode items — DMM / Leagues (14)
 
 - `Archaic emblem` — Deadman Mode, Deadman seasonal items
 - `Bank key` — Deadman Mode
 - `Crystal dagger` — Demonic Pacts League, Raging Echoes League
-- `Demonic axe ornament kit` **(T)** — Demonic Pacts League
-- `Demonic quill` **(T)** — Demonic Pacts League
-- `Demonic sceptre` **(T)** — Demonic Pacts League
-- `Demonic skin contract` **(T)** — Demonic Pacts League
 - `Demonic slayer helmet` — Demonic Pacts League
-- `Demonic staff ornament kit` **(T)** — Demonic Pacts League
-- `Demonic tallow` **(T)** — Demonic Pacts League
-- `Demonic trident ornament kit` **(T)** — Demonic Pacts League
-- `Echo venator bow ornament kit` **(T)** — Raging Echoes League
 - `Forager's pouch` — Demonic Pacts League, Raging Echoes League
 - `Mystic cards` — Shattered Relics League
 - `Portable waystone` — Shattered Relics League
 - `Ranging Ro` — Deadman: Annihilation, Deadman: Armageddon, Deadman seasonal items **[Monster card]**
 - `Searing boots` — Demonic Pacts League
-- `Shattered banner` **(T)** — Shattered Relics League
-- `Shattered cane` **(T)** — Shattered Relics League
-- `Shattered cannon ornament kit` **(T)** — Shattered Relics League
 - `Soul shard` — Demonic Pacts League
-- `Twisted banner` **(T)** — Twisted League
-- `Twisted cane` **(T)** — Twisted League
 - `Twisted extract` — Twisted League
-- `Twisted horns` **(T)** — Twisted League
 - `Twisted slayer helmet` — Twisted League
-- `Twisted trousers` **(T)** — Twisted League
 - `Twitcher's gloves` — Twisted League
 - `TzTok-Jad-Rek` — Deadman: Annihilation, Deadman seasonal items **[Monster card]**
 
@@ -166,7 +150,7 @@ Only true one-off quest kills (`Delrith`, `Count Draynor`, `Culinaromancer`, `Ag
 
 ---
 
-## Kept: tradeable — NOT recommended for removal (38)
+## Kept: tradeable — NOT recommended for removal (53)
 
 Event-origin or discontinued, but permanently tradeable, so they behave like normal
 economy items rather than limited cosmetics:
@@ -177,8 +161,13 @@ economy items rather than limited cosmetics:
 
 **Limited** (17): `Ancient magicks tablet`, `Ancient mjolnir`, `Ball of cotton`, `Burnt chompy`, `Burnt pitta bread`, `Equa toad's legs`, `Farmer's fork`, `Not meat`, `Odd batta`, `Odd cocktail`, `Odd crunchies`, `Odd gnomebowl`, `Rock-climbing boots`, `Seasoned legs`, `Spicy toad's legs`, `Spicy worm`, `Spirit roots`
 
+**Gamemode** (15): `Demonic axe ornament kit`, `Demonic quill`, `Demonic sceptre`, `Demonic skin contract`, `Demonic staff ornament kit`, `Demonic tallow`, `Demonic trident ornament kit`, `Echo venator bow ornament kit`, `Shattered banner`, `Shattered cane`, `Shattered cannon ornament kit`, `Twisted banner`, `Twisted cane`, `Twisted horns`, `Twisted trousers`
+
 `Black h'ween mask` is **not** here — unlike the classic red/green/blue masks it is an
 untradeable 2013 event reward, so it stays on the removal list.
+
+League/DMM entries above are tradeable only *within* their gamemode and are not
+obtainable in the main game — parked here for now, flag if they should come back.
 
 ---
 
