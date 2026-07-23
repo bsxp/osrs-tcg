@@ -1,25 +1,5 @@
 [
   {
-    "name": "\u002724-carat\u0027 sword",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/%2724-carat%27_sword_detail.png/130px-%2724-carat%27_sword_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "A carrot sword painted gold!",
-    "value": 1,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "10th birthday balloons",
     "category": [
       "Resource",
