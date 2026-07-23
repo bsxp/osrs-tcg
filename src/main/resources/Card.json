@@ -1300,24 +1300,6 @@
     "value": 6
   },
   {
-    "name": "Ad coupon",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ad_coupon_detail.png/130px-Ad_coupon_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Destroy"
-    ],
-    "examine": "A coupon for an advert in the Varrock Herald.",
-    "value": 1
-  },
-  {
     "name": "Adamant 2h sword",
     "category": [
       "Resource",
@@ -65617,22 +65599,6 @@
     "value": 30
   },
   {
-    "name": "Pumpkin pie",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Pumpkin_pie_detail.png/130px-Pumpkin_pie_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "The best pumpkin pie in Gielinor",
-    "value": 12
-  },
-  {
     "name": "Pure essence",
     "category": [
       "Resource"
@@ -89362,27 +89328,6 @@
     "examine": "You don\u0027t want to wear it inside-out.",
     "value": 75000,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Ugly halloween jumper",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ugly_halloween_jumper_%28black%29_detail.png/130px-Ugly_halloween_jumper_%28black%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Reverse",
-      "Destroy"
-    ],
-    "examine": "A reversible jumper knitted lovingly by Iffie.",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Ugthanki \u0026 onion",
