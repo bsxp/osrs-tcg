@@ -7942,23 +7942,6 @@
     "equipmentSlot": "head"
   },
   {
-    "name": "Banana pizza",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Banana_pizza_%28cookout%29_detail.png/130px-Banana_pizza_%28cookout%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "A banana pizza, made for the cookout.",
-    "value": 100
-  },
-  {
     "name": "Banana stew",
     "category": [
       "Resource",
@@ -77559,26 +77542,6 @@
     "equipmentSlot": "neck"
   },
   {
-    "name": "Skis",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skis_detail.png/130px-Skis_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Skis to help people move around the desert.",
-    "value": 1,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Skotos",
     "category": [
       "Resource",
@@ -86941,23 +86904,6 @@
     ],
     "examine": "Useful for lighting a fire.",
     "value": 1
-  },
-  {
-    "name": "Tiny fish",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tiny_fish_detail.png/130px-Tiny_fish_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "This fish is tiny!",
-    "value": 10
   },
   {
     "name": "Tiny net",
