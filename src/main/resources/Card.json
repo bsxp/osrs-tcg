@@ -21239,26 +21239,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Christmas jumper",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Christmas_jumper_detail.png/130px-Christmas_jumper_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Looks very cosy!",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Chromium ingot",
     "category": [
       "Resource",
@@ -33812,26 +33792,6 @@
     ],
     "examine": "It likes ferreting around.",
     "value": 40
-  },
-  {
-    "name": "Festive games crown",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Festive_games_crown_detail.png/130px-Festive_games_crown_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Awarded to those with the most Christmas spirit.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Festive scarf",
@@ -51404,25 +51364,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Light beer",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Light_beer_detail.png/130px-Light_beer_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drink",
-      "Drop"
-    ],
-    "examine": "An ice cold glass of beer, without the side effects.",
-    "value": 1
-  },
-  {
     "name": "Light bow tie",
     "category": [
       "Resource",
@@ -59770,111 +59711,6 @@
     "examine": "A pair of Nunchaku, smells of pizza.",
     "value": 6000,
     "equipmentSlot": "2h"
-  },
-  {
-    "name": "Nutcracker boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sweet_nutcracker_boots_detail.png/130px-Sweet_nutcracker_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "Some festive nutcracker boots.",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Nutcracker hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sweet_nutcracker_hat_detail.png/130px-Sweet_nutcracker_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A festive nutcracker hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Nutcracker staff",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sweet_nutcracker_staff_detail.png/130px-Sweet_nutcracker_staff_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A festive nutcracker staff.",
-    "value": 1,
-    "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Nutcracker top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sweet_nutcracker_top_detail.png/130px-Sweet_nutcracker_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A festive nutcracker top.",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Nutcracker trousers",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sweet_nutcracker_trousers_detail.png/130px-Sweet_nutcracker_trousers_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "Some festive nutcracker trousers.",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Oak bird house",
@@ -73145,26 +72981,6 @@
     "value": 1
   },
   {
-    "name": "Sack of coal",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Sack_of_coal_detail.png/130px-Sack_of_coal_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Drop"
-    ],
-    "examine": "Better not fill this to the brim or I might be on the naughty list.",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Sack pack",
     "category": [
       "Resource"
@@ -78757,26 +78573,6 @@
     ],
     "examine": "A snape grass seed - plant in an allotment.",
     "value": 94
-  },
-  {
-    "name": "Snow goggles \u0026 hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_goggles_%26_hat_detail.png/130px-Snow_goggles_%26_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Festive, functional, and fashionable!",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Snow imp costume body",
