@@ -17800,26 +17800,6 @@
     "value": 420
   },
   {
-    "name": "Bunny ears",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bunny_ears_detail.png/130px-Bunny_ears_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A rabbit-like adornment.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Bunny feet",
     "category": [
       "Resource",
@@ -30522,26 +30502,6 @@
     "examine": "Shaped from rock that was sharpened by time.",
     "value": 30000,
     "equipmentSlot": "2h"
-  },
-  {
-    "name": "Easter basket",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Easter_basket_detail.png/130px-Easter_basket_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "A holiday gift from the Easter Bunny.",
-    "value": 0,
-    "equipmentSlot": "weapon"
   },
   {
     "name": "Easter egg",
