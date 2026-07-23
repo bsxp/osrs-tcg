@@ -10071,41 +10071,6 @@
     "value": 1
   },
   {
-    "name": "Big bucket",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Big_bucket_detail.png/130px-Big_bucket_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "It\u0027s a wooden bucket. But... bigger.",
-    "value": 2
-  },
-  {
-    "name": "Big bucket of camel milk",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Big_bucket_of_camel_milk_detail.png/130px-Big_bucket_of_camel_milk_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Drink",
-      "Empty",
-      "Destroy"
-    ],
-    "examine": "It\u0027s a big ol\u0027 bucket, full of camel milk.",
-    "value": 6
-  },
-  {
     "name": "Big fishing net",
     "category": [
       "Resource"
@@ -23005,23 +22970,6 @@
     "value": 20
   },
   {
-    "name": "Cooler",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cooler_detail.png/130px-Cooler_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Check",
-      "Destroy"
-    ],
-    "examine": "A cooler with enough space for two Easter eggs.",
-    "value": 1
-  },
-  {
     "name": "Copper ore",
     "category": [
       "Resource"
@@ -23753,25 +23701,6 @@
     ],
     "examine": "Some dry crackers.",
     "value": 1
-  },
-  {
-    "name": "Crate ring",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Crate_ring_detail.png/130px-Crate_ring_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "This would be pretty good for a sneaking mission.",
-    "value": 1,
-    "equipmentSlot": "ring"
   },
   {
     "name": "Craw\u0027s bow",
@@ -29944,25 +29873,6 @@
     ],
     "examine": "Egg head!",
     "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Easter hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Easter_hat_detail.png/130px-Easter_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A nice easter hat.",
-    "value": 70,
     "equipmentSlot": "head"
   },
   {
@@ -79142,42 +79052,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Special hot sauce",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Special_hot_sauce_detail.png/130px-Special_hot_sauce_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Drink",
-      "Destroy"
-    ],
-    "examine": "The bottle is hot to the touch. I should probably be wearing gloves.",
-    "value": 0
-  },
-  {
-    "name": "Special super hot kebab",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Special_super_hot_kebab_detail.png/130px-Special_super_hot_kebab_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Eat",
-      "Destroy"
-    ],
-    "examine": "It burns my eyes just looking at it.",
-    "value": 0
-  },
-  {
     "name": "Spectral sigil",
     "category": [
       "Resource",
@@ -84245,22 +84119,6 @@
     ],
     "examine": "A big cup for a big thirst.",
     "value": 5
-  },
-  {
-    "name": "Tanning wheel",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tanning_wheel_detail.png/130px-Tanning_wheel_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "You spin me right round, baby, right round.",
-    "value": 1
   },
   {
     "name": "Tanzanite fang",
@@ -93842,22 +93700,6 @@
     ],
     "examine": "Parts for creating a wooden hull for a boat.",
     "value": 250
-  },
-  {
-    "name": "Wooden pole",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Wooden_pole_detail.png/130px-Wooden_pole_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "A wooden pole which could be used as an axle for the wheel.",
-    "value": 1
   },
   {
     "name": "Wooden shield",
