@@ -98648,28 +98648,6 @@
     "equipmentSlot": "hands"
   },
   {
-    "name": "Zombie head",
-    "category": [
-      "Resource",
-      "Misthalin",
-      "Clue"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Zombie_head_detail.png/130px-Zombie_head_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Talk-At",
-      "Display",
-      "Question",
-      "Destroy"
-    ],
-    "examine": "Alas...I hardly knew him.",
-    "value": 0
-  },
-  {
     "name": "Zombie helmet",
     "category": [
       "Resource",
