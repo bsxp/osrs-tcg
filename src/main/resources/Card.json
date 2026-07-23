@@ -37132,26 +37132,6 @@
     "equipmentSlot": "head"
   },
   {
-    "name": "Giant boulder",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Giant_boulder_detail.png/130px-Giant_boulder_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "That\u0027s one ginormous boulder.",
-    "value": 1,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Giant bronze dagger",
     "category": [
       "Resource",
@@ -58100,22 +58080,6 @@
     ],
     "examine": "A mouldy doll that was presumably once the property of a child.",
     "value": 100
-  },
-  {
-    "name": "Mouldy sawdust",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Mouldy_sawdust_detail.png/130px-Mouldy_sawdust_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Why would anyone keep this?",
-    "value": 1
   },
   {
     "name": "Mount karuulm diary",
