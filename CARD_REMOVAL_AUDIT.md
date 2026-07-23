@@ -1,179 +1,609 @@
 # OSRS TCG — Card Collection Removal Audit
 
 Audited `src/main/resources/Card.json` @ `main` (44a9dd6) — **6,376 cards**.
-Classification is from live OSRS Wiki page categories (fetched per-card), not keyword guessing.
+Classified from live OSRS Wiki page categories (fetched per-card), not keyword matching.
+Item IDs are from OSRS Wiki infoboxes.
 
-**335 cards flagged** across the five requested categories.
-
-Tradeable items are **excluded from removal** — they remain live in the main-game economy.
-53 cards were removed from the candidate list on that basis (see "Kept: tradeable" below).
-
-This includes DMM/League items that are tradeable inside their gamemode.
+**335 cards recommended for removal.** Tradeable items are excluded — they stay live in
+the main-game economy (53 cards, listed at the end).
 
 | Category | Cards |
 |---|---|
 | Event / holiday / anniversary | 235 |
-| Diango reclaimables (not already event-tagged) | 59 |
+| Diango reclaimables | 59 |
 | Limited-time / discontinued / unobtainable | 29 |
 | Temporary gamemodes (DMM / Leagues) | 14 |
-| Quest items | 0 — see §5, all 10 matches are permanently obtainable |
-| **Unique total** | **335** |
+| Quest items | 0 — all 10 matches are permanently obtainable |
+| **Total** | **335** |
 
 ---
 
 ## 1. Event / holiday items (235)
 
-**2005** (1): Zombie head
+```
+// 2005 Halloween event
+6722 // Zombie head
 
-**2013** (8): Black h'ween mask, Jack lantern mask, Reindeer hat, Skeleton boots, Skeleton gloves, Skeleton leggings, Skeleton mask, Skeleton shirt
+// 2013 Christmas event
+10507 // Reindeer hat
 
-**2014** (17): Antisanta's coal box, Birthday present, Blue marionette, Bunny ears, Cow mask, Crystal halberd, Easter basket, Green marionette, Grim reaper hood, Grim reaper's diary, Grim robe, Marionette handle, Red marionette, Scythe sharpener, Tree bauble, War ship, Will and testament
+// 2013 Halloween event
+11847 // Black h'ween mask
+9920 // Jack lantern mask
+9921 // Skeleton boots
+9922 // Skeleton gloves
+9923 // Skeleton leggings
+9925 // Skeleton mask
+9924 // Skeleton shirt
 
-**2015** (3): Black santa hat, Diango's claws, Volatile mineral
+// 2014 Birthday event
+11918 // Birthday present
+11919 // Cow mask
+23987 // Crystal halberd (variants: 24125)
+795 // War ship
 
-**2016** (9): Bunny legs, Bunny paws, Bunny top, Cabbage cape, Cruciferous codex, Giant present, Gnome child hat, Hunting knife, Sack of presents
+// 2014 Christmas event
+12897 // Antisanta's coal box
+6865 // Blue marionette
+6866 // Green marionette
+6864 // Marionette handle
+6867 // Red marionette
+6840 // Tree bauble (variants: 6842, 6844)
 
-**2017** (12): 4th birthday hat, Crunchy chocolate mix, Diving helmet, Jonas mask, Santa suit, Sea salt, Spectral potion, Tattered book, Vault key, Wester banana, Wester fish, Wise old man's teleport tablet
+// 2014 Easter event
+1037 // Bunny ears
+4565 // Easter basket
 
-**2018** (11): Church lectern, Clown bow tie, Clown gown, Clown mask, Clown shoes, Clown trousers, Dead person, Eek, Prop sword, Tree skirt, Tree top
+// 2014 Halloween event
+12845 // Grim reaper hood
+12836 // Grim reaper's diary
+12837 // Grim robe
+12842 // Scythe sharpener
+12838 // Will and testament
 
-**2019** (17): Brewer's folly, Bunnyman mask, Cook's letter, Green gingerbread shield, Pumpkin lantern, Red gingerbread shield, Scaperune teleport, Skeleton lantern, Smoke powder, Spookier hood, Spookier robe, Spooky boots, Spooky gloves, Spooky hood, Spooky robe, Spooky skirt, Vyvin's wine
+// 2015 April Fools
+13188 // Diango's claws
 
-**2020** (7): Cat ears, Giant boulder, Headless head, Hell cat ears, Magical pumpkin, Mouldy sawdust, Spider snack
+// 2015 Christmas event
+13343 // Black santa hat
 
-**2021** (13): Ad coupon, Clean full helm, Clean platebody, Clean platelegs, Cursed banana, Festive elf hat, Pink stained full helm, Pink stained platebody, Pink stained platelegs, Propeller hat, Pumpkin pie, Snowman ring, Ugly halloween jumper
+// 2015 Easter event
+13186 // Volatile mineral
 
-**2022** (21): Beautiful yellow pansy seed, Big bucket, Big bucket of camel milk, Christmas jumper, Cooler, Crate ring, Easter hat, Flower crown, Nutcracker boots, Nutcracker hat, Nutcracker staff, Nutcracker top, Nutcracker trousers, Sack of coal, Snow goggles & hat, Special hot sauce, Special super hot kebab, Tanning wheel, Treat cauldron, Witch hat, Wooden pole
+// 2016 April Fools
+13679 // Cabbage cape
+13681 // Cruciferous codex
 
-**2023** (17): Bob the cat slippers, Cake hat, Dragon candle dagger, Dwarf cake, Eastfloor spade, Gnome cake, Gnome child backpack, Gnome child plush, Goblin cake, Jad plush, Jad slippers, Nest hat, Oldschool jumper, Rainbow jumper, Snowglobe helmet, Spider hat, Stray dog plush
+// 2016 Birthday event
+13655 // Gnome child hat
 
-**2024** (10): Book of egg, Egg priest mitre, Egg priest necklace, Egg priest robe, Egg priest robe top, Halloween scarecrow, Present box hat, Rainbow cape, Rainbow crown shirt, Scarecrow shirt
+// 2016 Christmas event
+20836 // Giant present
+20834 // Sack of presents
 
-**2025** (12): Carrot costume body, Carrot costume gloves, Carrot costume hat, Carrot costume tights, Christmas dinner, Classic imp hood, Classic imp tail, Grim reaper bottoms, Grim reaper gloves, Grim reaper top, Raisins, Serving platter
+// 2016 Easter event
+13664 // Bunny legs
+13665 // Bunny paws
+13663 // Bunny top
 
-**2026** (1): Scribbled notes
+// 2016 Halloween event
+20779 // Hunting knife
 
-**Anniversary** (2): Gnome child icon, Gnome child mask
+// 2017 Birthday event
+21211 // 4th birthday hat
 
-**Event rewards** (74): Antisanta boots, Antisanta gloves, Antisanta jacket, Antisanta mask, Antisanta pantaloons, Black partyhat, Bobble hat, Bobble scarf, Bunny feet, Candy cane, Chicken feet, Chicken head, Chicken legs, Chicken wings, Clue hunter boots, Clue hunter cloak, Clue hunter garb, Clue hunter gloves, Clue hunter trousers, Corrupted helm, Corrupted kiteshield, Corrupted platebody, Corrupted platelegs, Corrupted plateskirt, Cow gloves, Cow shoes, Cow top, Cow trousers, Druidic wreath, Easter egg helm, Easter ring, Eggshell platebody, Eggshell platelegs, Gravedigger boots, Gravedigger gloves, Gravedigger leggings, Gravedigger mask, Gravedigger top, Hand fan, Helm of raedwald, Hood of ruin, Hornwood helm, Infinite money bag, Jester hat, Jester scarf, Mask of balance, Ornate boots, Ornate cape, Ornate gloves, Ornate helm, Ornate legs, Ornate top, Rainbow partyhat, Rainbow scarf, Rubber chicken, Santa boots, Santa gloves, Santa jacket, Santa mask, Santa pantaloons, Snow imp costume body, Snow imp costume feet, Snow imp costume gloves, Snow imp costume head, Snow imp costume legs, Snow imp costume tail, Spooky scarecrow, Spooky wall lamp, Tri-jester hat, Tri-jester scarf, Wise old man's santa hat, Woolly hat, Woolly scarf, Yo-yo
+// 2017 Christmas event
+21866 // Santa suit
+21872 // Vault key
+21863 // Wise old man's teleport tablet
+
+// 2017 Easter event
+21239 // Crunchy chocolate mix
+21246 // Sea salt
+21240 // Wester banana
+21249 // Wester fish
+
+// 2017 Halloween event
+21722 // Diving helmet
+21720 // Jonas mask
+21712 // Spectral potion
+21714 // Tattered book
+
+// 2018 Birthday event
+22316 // Prop sword
+
+// 2018 Christmas event
+22717 // Tree skirt
+22715 // Tree top
+
+// 2018 Halloween event
+22687 // Church lectern
+22692 // Clown bow tie
+22695 // Clown gown
+22689 // Clown mask
+22701 // Clown shoes
+22698 // Clown trousers
+22686 // Dead person
+22684 // Eek (variants: 8485)
+
+// 2019 Birthday event
+23105 // Brewer's folly
+23104 // Cook's letter
+23106 // Vyvin's wine
+
+// 2019 Christmas event
+24428 // Green gingerbread shield
+24430 // Red gingerbread shield
+24441 // Scaperune teleport
+
+// 2019 Easter event
+23448 // Bunnyman mask
+
+// 2019 Halloween event
+24325 // Pumpkin lantern
+24327 // Skeleton lantern
+24298 // Smoke powder
+24315 // Spookier hood
+24317 // Spookier robe
+24313 // Spooky boots
+24311 // Spooky gloves
+24305 // Spooky hood
+24307 // Spooky robe
+24309 // Spooky skirt
+
+// 2020 Birthday event
+24525 // Cat ears
+24527 // Hell cat ears
+
+// 2020 Christmas event
+25314 // Giant boulder
+25286 // Mouldy sawdust
+
+// 2020 Halloween event
+24975 // Headless head
+24977 // Magical pumpkin
+24992 // Spider snack
+
+// 2021 Birthday event
+25500 // Cursed banana
+
+// 2021 Christmas event
+26290 // Clean full helm
+26286 // Clean platebody
+26288 // Clean platelegs
+26312 // Festive elf hat
+26284 // Pink stained full helm
+26280 // Pink stained platebody
+26282 // Pink stained platelegs
+26314 // Snowman ring
+
+// 2021 Easter event
+25606 // Propeller hat
+
+// 2021 Halloween event
+26252 // Ad coupon
+26247 // Pumpkin pie
+26256 // Ugly halloween jumper
+
+// 2022 Christmas event
+27566 // Christmas jumper
+27578 // Nutcracker boots
+27576 // Nutcracker hat
+27580 // Nutcracker staff
+27572 // Nutcracker top
+27574 // Nutcracker trousers
+27558 // Sack of coal
+27568 // Snow goggles & hat
+
+// 2022 Easter event
+26919 // Big bucket
+26920 // Big bucket of camel milk
+26925 // Cooler
+26939 // Crate ring
+26937 // Easter hat
+26916 // Special hot sauce
+26917 // Special super hot kebab
+26931 // Tanning wheel
+26934 // Wooden pole
+
+// 2022 Halloween event
+27463 // Treat cauldron (variants: 27467, 27471)
+27473 // Witch hat
+
+// 2022 Pride event
+27039 // Beautiful yellow pansy seed
+27035 // Flower crown (variants: 27143, 27147, 27151, 27155)
+
+// 2023 Birthday event
+27806 // Bob the cat slippers
+27804 // Cake hat
+27810 // Dragon candle dagger
+27801 // Dwarf cake
+27799 // Gnome cake
+27802 // Gnome child backpack
+27818 // Gnome child plush
+27800 // Goblin cake
+27814 // Jad plush
+27808 // Jad slippers
+27822 // Oldschool jumper (variants: 27823, 27824, 27825, 27826, 27827)
+27816 // Stray dog plush
+
+// 2023 Christmas event
+28788 // Snowglobe helmet
+
+// 2023 Easter event
+27873 // Eastfloor spade
+27875 // Nest hat
+
+// 2023 Halloween event
+28603 // Spider hat (variants: 28607, 28611)
+
+// 2023 Pride event
+28116 // Rainbow jumper (variants: 28119, 28121, 28123, 28125)
+
+// 2024 Christmas event
+30479 // Present box hat (variants: 30483)
+
+// 2024 Easter event
+29433 // Book of egg
+29443 // Egg priest mitre
+29441 // Egg priest necklace
+29437 // Egg priest robe
+29439 // Egg priest robe top
+
+// 2024 Halloween event
+30234 // Halloween scarecrow
+30232 // Scarecrow shirt
+
+// 2024 Pride event
+29489 // Rainbow cape (variants: 29493, 29497, 29501, 29505)
+29507 // Rainbow crown shirt (variants: 29510, 29512, 29514, 29516)
+
+// 2025 Birthday event
+30648 // Classic imp hood
+30646 // Classic imp tail
+
+// 2025 Christmas event
+32934 // Christmas dinner
+32926 // Serving platter
+
+// 2025 Easter event
+30722 // Carrot costume body
+30726 // Carrot costume gloves
+30720 // Carrot costume hat
+30724 // Carrot costume tights
+30717 // Raisins
+
+// 2025 Halloween event
+31231 // Grim reaper bottoms
+31233 // Grim reaper gloves
+31229 // Grim reaper top
+
+// 2026 Easter event
+33146 // Scribbled notes
+
+// 20th Anniversary event
+25338 // Gnome child icon
+25336 // Gnome child mask
+
+// Christmas corrupt cluefest
+20838 // Corrupted helm
+20846 // Corrupted kiteshield
+20840 // Corrupted platebody
+20842 // Corrupted platelegs
+20844 // Corrupted plateskirt
+
+// Event rewards
+12896 // Antisanta boots
+12895 // Antisanta gloves
+12893 // Antisanta jacket
+12892 // Antisanta mask
+12894 // Antisanta pantaloons
+11862 // Black partyhat
+6856 // Bobble hat
+6857 // Bobble scarf
+13182 // Bunny feet
+22719 // Candy cane
+11019 // Chicken feet
+11021 // Chicken head
+11022 // Chicken legs
+11020 // Chicken wings
+19695 // Clue hunter boots
+19697 // Clue hunter cloak
+19689 // Clue hunter garb
+19691 // Clue hunter gloves
+19693 // Clue hunter trousers
+12958 // Cow gloves
+12959 // Cow shoes
+12956 // Cow top
+12957 // Cow trousers
+12600 // Druidic wreath
+21214 // Easter egg helm
+7927 // Easter ring
+22351 // Eggshell platebody
+22353 // Eggshell platelegs
+13286 // Gravedigger boots
+13287 // Gravedigger gloves
+13285 // Gravedigger leggings
+13283 // Gravedigger mask
+13284 // Gravedigger top
+21354 // Hand fan
+19687 // Helm of raedwald
+27428 // Hood of ruin
+19699 // Hornwood helm
+27440 // Infinite money bag
+6858 // Jester hat
+6859 // Jester scarf
+13203 // Mask of balance
+23093 // Ornate boots
+23099 // Ornate cape
+23091 // Ornate gloves
+23101 // Ornate helm
+23095 // Ornate legs
+23097 // Ornate top
+11863 // Rainbow partyhat
+21314 // Rainbow scarf (variants: 28109, 28111, 28113, 28115)
+4566 // Rubber chicken
+12891 // Santa boots
+12890 // Santa gloves
+12888 // Santa jacket
+12887 // Santa mask
+12889 // Santa pantaloons
+21849 // Snow imp costume body
+21857 // Snow imp costume feet
+21855 // Snow imp costume gloves
+21847 // Snow imp costume head
+21851 // Snow imp costume legs
+21853 // Snow imp costume tail
+6860 // Tri-jester hat
+6861 // Tri-jester scarf
+21859 // Wise old man's santa hat
+6862 // Woolly hat
+6863 // Woolly scarf
+4079 // Yo-yo (variants: 2261, 2262, 2263, 2264, 2265)
+
+// Halloween event
+31224 // Spooky scarecrow
+31223 // Spooky wall lamp
+
+```
 
 ---
 
 ## 2. Diango reclaimables (59)
 
-Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
+Toys/commemoratives reclaimable from Diango (his permanent shop stock excluded).
 
-'24-carat' sword, 10th birthday balloons, 10th birthday cape, 20th anniversary boots, 20th anniversary bottom, 20th anniversary cape, 20th anniversary gloves, 20th anniversary hat, 20th anniversary necklace, 20th anniversary top, 25th anniversary 5x5 hat, 25th anniversary helmet, 25th anniversary skeleton tabard, 25th anniversary warrior tabard, Amur leopard toy, Banana cape, Banana hat, Banshee mask, Banshee robe, Banshee top, Beach boxing gloves, Beer belly sweater, Birthday balloons, Cobweb cape, Cursed goblin bow, Cursed goblin hammer, Cursed goblin staff, Dog boots, Dog disguise, Festive elf slippers, Festive games crown, Festive scarf, Giant bronze dagger, Goblin paint cannon, Gregg's eastdoor, Icy jumper, Inverted santa hat, Jad jumper, Lion toy, Love crossbow, Lovley jubbly bib, Mystic cards, Poet's jacket, Runefest shield, Silver partyhat, Skis, Snow leopard toy, Spookier boots, Spookier gloves, Spookier skirt, Spooky chair, Spooky pumpkin lantern, Star-face, Tiger toy, Web cloak, Witch boots, Witch cape, Witch robes, Witch top
+```
+// Diango reclaimable
+24539 // '24-carat' sword
+27820 // 10th birthday balloons
+27812 // 10th birthday cape
+25328 // 20th anniversary boots
+25326 // 20th anniversary bottom
+25334 // 20th anniversary cape
+25330 // 20th anniversary gloves
+25322 // 20th anniversary hat
+25332 // 20th anniversary necklace
+25324 // 20th anniversary top
+33086 // 25th anniversary 5x5 hat
+33080 // 25th anniversary helmet
+33084 // 25th anniversary skeleton tabard
+33082 // 25th anniversary warrior tabard
+13218 // Amur leopard toy
+25502 // Banana cape
+25840 // Banana hat
+20773 // Banshee mask
+20777 // Banshee robe
+20775 // Banshee top
+11705 // Beach boxing gloves
+32930 // Beer belly sweater
+21209 // Birthday balloons
+28601 // Cobweb cape
+11708 // Cursed goblin bow
+11707 // Cursed goblin hammer
+11709 // Cursed goblin staff
+30491 // Dog boots
+30487 // Dog disguise
+26310 // Festive elf slippers
+27588 // Festive games crown
+30489 // Festive scarf
+27871 // Giant bronze dagger
+12727 // Goblin paint cannon
+25604 // Gregg's eastdoor
+28786 // Icy jumper
+13344 // Inverted santa hat
+32932 // Jad jumper
+13216 // Lion toy
+28128 // Love crossbow
+32928 // Lovley jubbly bib
+27645 // Mystic cards
+28126 // Poet's jacket
+21695 // Runefest shield
+27828 // Silver partyhat
+26649 // Skis
+13217 // Snow leopard toy
+24323 // Spookier boots
+24321 // Spookier gloves
+24319 // Spookier skirt
+14815 // Spooky chair (variants: 31225)
+31227 // Spooky pumpkin lantern
+22713 // Star-face
+13215 // Tiger toy
+28671 // Web cloak
+27479 // Witch boots
+27481 // Witch cape
+27477 // Witch robes
+27475 // Witch top
+```
 
 ---
 
 ## 3. Limited-time / discontinued / unobtainable (29)
 
-- `18lb shot` — Unobtainable items
-- `22lb shot` — Unobtainable items
-- `Adamant arrow pack` — Discontinued content
-- `Antique emblem` — Discontinued content
-- `Astral tiara` — Unobtainable items
-- `Barbarian skills` — Discontinued content
-- `Battlehat` — Discontinued content
-- `Blighted bind sack` — Discontinued content
-- `Blighted snare sack` — Discontinued content
-- `Blighted wave sack` — Discontinued content
-- `Bloodthirst rockslug` — Discontinued content
-- `Broken plate` — Unobtainable items
-- `Catalytic rune pack` — Discontinued content
-- `Dark manuscript` — Discontinued content
-- `Elemental rune pack` — Discontinued content
-- `Essence pack` — Unobtainable items
-- `Fish chunks` — Discontinued content
-- `Fish vial` — Unobtainable items
-- `Fresh fish` — Discontinued content
-- `Hazelmere's book` — Unobtainable items
-- `Mysterious emblem` — Discontinued content
-- `Portable waystone` — Discontinued content
-- `Puddle of slime` — Unobtainable items
-- `Rancid turkey` — Unobtainable items
-- `Rowdy Guard` — Discontinued content
-- `Rune arrow pack` — Discontinued content
-- `Soul talisman` — Unobtainable items
-- `Strange box` — Discontinued content
-- `Wimpy feather` — Unobtainable items
+```
+// Discontinued content
+20525 // Adamant arrow pack
+24565 // Antique emblem (variants: 24569, 24573, 24577, 24581)
+11340 // Barbarian skills
+31172 // Battlehat
+24609 // Blighted bind sack
+24611 // Blighted snare sack
+26704 // Blighted wave sack
+12561 // Bloodthirst rockslug   [Monster card]
+20523 // Catalytic rune pack
+13514 // Dark manuscript (variants: 13516, 13518, 13520, 13522)
+20524 // Elemental rune pack
+22818 // Fish chunks
+13429 // Fresh fish
+24277 // Mysterious emblem (variants: 24281, 24285)
+26549 // Portable waystone
+4654 // Rowdy Guard   [Monster card]
+20607 // Rune arrow pack
+3062 // Strange box
+
+// Unobtainable items
+8858 // 18lb shot
+8859 // 22lb shot
+9106 // Astral tiara
+4614 // Broken plate
+25280 // Essence pack
+11427 // Fish vial
+9595 // Hazelmere's book
+4238 // Puddle of slime
+11848 // Rancid turkey
+1460 // Soul talisman
+11525 // Wimpy feather
+
+```
 
 ---
 
 ## 4. Temporary gamemode items — DMM / Leagues (14)
 
-- `Archaic emblem` — Deadman Mode, Deadman seasonal items
-- `Bank key` — Deadman Mode
-- `Crystal dagger` — Demonic Pacts League, Raging Echoes League
-- `Demonic slayer helmet` — Demonic Pacts League
-- `Forager's pouch` — Demonic Pacts League, Raging Echoes League
-- `Mystic cards` — Shattered Relics League
-- `Portable waystone` — Shattered Relics League
-- `Ranging Ro` — Deadman: Annihilation, Deadman: Armageddon, Deadman seasonal items **[Monster card]**
-- `Searing boots` — Demonic Pacts League
-- `Soul shard` — Demonic Pacts League
-- `Twisted extract` — Twisted League
-- `Twisted slayer helmet` — Twisted League
-- `Twitcher's gloves` — Twisted League
-- `TzTok-Jad-Rek` — Deadman: Annihilation, Deadman seasonal items **[Monster card]**
+```
+// Deadman Mode
+13302 // Bank key (variants: 13304, 13306)
+
+// Deadman Mode, Deadman seasonal items
+12746 // Archaic emblem (variants: 12749, 12751, 12753, 12755)
+
+// Deadman: Annihilation, Deadman seasonal items
+15557 // TzTok-Jad-Rek   [Monster card]
+
+// Deadman: Annihilation, Deadman: Armageddon, Deadman seasonal items
+13664 // Ranging Ro   [Monster card]
+
+// Demonic Pacts League
+33338 // Demonic slayer helmet
+28771 // Searing boots
+33231 // Soul shard
+
+// Demonic Pacts League, Raging Echoes League
+30340 // Crystal dagger
+30357 // Forager's pouch
+
+// Shattered Relics League
+27645 // Mystic cards
+26549 // Portable waystone
+
+// Twisted League
+28595 // Twisted extract
+24370 // Twisted slayer helmet
+28630 // Twitcher's gloves
+
+```
 
 ---
 
 ## 5. Quest items — 0 recommended for removal
 
-Wiki `Category:Quest items` matches exactly **10** cards. Every one of them is
-**permanently obtainable and permanently kept**, so none qualify for removal:
+Wiki `Category:Quest items` matches exactly 10 cards; all are permanently obtainable
+and permanently kept, so none qualify: `Helm of neitiznot` (GE-tradeable),
+`Guthix`/`Saradomin`/`Zamorak staff` (Mage Arena, repeatable), `Keris partisan`,
+`New crystal shield`, `Captain's log`, `Current duck`, `Mayor of catherby`, `Cowbell amulet`.
 
-| Card | Tradeable | Why it stays |
-|---|---|---|
-| `Helm of neitiznot` | Yes | GE-tradeable Fremennik Isles reward |
-| `Guthix staff` | No | Mage Arena, repeatable |
-| `Saradomin staff` | No | Mage Arena, repeatable |
-| `Zamorak staff` | No | Mage Arena, repeatable |
-| `Keris partisan` | No | Permanent; also a ToA drop |
-| `New crystal shield` | No | Roving Elves reward, re-craftable from shards |
-| `Captain's log` | No | Permanent Sailing tool (Pandemonium) |
-| `Current duck` | No | Permanent Sailing tool (Current Affairs) |
-| `Mayor of catherby` | No | Permanent post-quest NPC/fish (Current Affairs) |
-| `Cowbell amulet` | No | Permanent utility amulet (The Ides of Milk) |
+The category means *quest-associated*, not *quest-exclusive*.
 
-The wiki category means *quest-associated*, not *quest-exclusive* — there is no
-quest-only disposable junk in the card set to remove.
-
-### Quest NPCs / monsters — not included (212 cards)
-
-Out of scope for an *items* audit, and the same rule applies: many are permanently
-killable (`Dharok the Wretched`, `Ahrim the Blighted`, `Demonic gorilla`, `Dagannoth mother`).
-Only true one-off quest kills (`Delrith`, `Count Draynor`, `Culinaromancer`, `Agrith Naar`,
-`Black Knight Titan`, `Balance Elemental`) would be candidates. Say the word and I can split these out.
+Quest NPCs/monsters (212 cards) are out of scope for an items audit, and the same rule
+applies — most are permanently killable (`Dharok the Wretched`, `Demonic gorilla`).
 
 ---
 
-## Kept: tradeable — NOT recommended for removal (53)
+## Kept: tradeable — NOT for removal (53)
 
-Event-origin or discontinued, but permanently tradeable, so they behave like normal
-economy items rather than limited cosmetics:
+```
+// Event
+1055 // Blue halloween mask
+1042 // Blue partyhat
+11910 // Chocolate strawberry
+962 // Christmas cracker
+981 // Disk of returning
+1961 // Easter egg
+1053 // Green halloween mask
+1044 // Green partyhat
+1989 // Half full wine jug
+11171 // Newspaper
+1959 // Pumpkin
+1046 // Purple partyhat
+1057 // Red halloween mask
+1038 // Red partyhat
+1050 // Santa hat
+1048 // White partyhat
+1040 // Yellow partyhat
 
-**Event** (17): `Blue halloween mask`, `Blue partyhat`, `Chocolate strawberry`, `Christmas cracker`, `Disk of returning`, `Easter egg`, `Green halloween mask`, `Green partyhat`, `Half full wine jug`, `Newspaper`, `Pumpkin`, `Purple partyhat`, `Red halloween mask`, `Red partyhat`, `Santa hat`, `White partyhat`, `Yellow partyhat`
+// Diango
+2524 // Black toy horsey
+2520 // Brown toy horsey
+2526 // Grey toy horsey
+2522 // White toy horsey
 
-**Diango** (4): `Black toy horsey`, `Brown toy horsey`, `Grey toy horsey`, `White toy horsey`
+// Limited
+20430 // Ancient magicks tablet
+7804 // Ancient mjolnir
+31454 // Ball of cotton
+7226 // Burnt chompy
+1867 // Burnt pitta bread
+2154 // Equa toad's legs
+1411 // Farmer's fork
+29098 // Not meat
+2245 // Odd batta
+2094 // Odd cocktail (variants: 2098)
+2197 // Odd crunchies
+2173 // Odd gnomebowl
+2203 // Rock-climbing boots
+2158 // Seasoned legs
+2156 // Spicy toad's legs
+2160 // Spicy worm
+6053 // Spirit roots
 
-**Limited** (17): `Ancient magicks tablet`, `Ancient mjolnir`, `Ball of cotton`, `Burnt chompy`, `Burnt pitta bread`, `Equa toad's legs`, `Farmer's fork`, `Not meat`, `Odd batta`, `Odd cocktail`, `Odd crunchies`, `Odd gnomebowl`, `Rock-climbing boots`, `Seasoned legs`, `Spicy toad's legs`, `Spicy worm`, `Spirit roots`
+// Gamemode
+33305 // Demonic axe ornament kit
+33342 // Demonic quill
+33296 // Demonic sceptre
+33302 // Demonic skin contract
+????? // Demonic staff ornament kit
+????? // Demonic tallow
+????? // Demonic trident ornament kit
+30432 // Echo venator bow ornament kit
+26424 // Shattered banner
+26517 // Shattered cane
+26528 // Shattered cannon ornament kit
+24413 // Twisted banner
+24395 // Twisted cane
+24466 // Twisted horns
+24391 // Twisted trousers
 
-**Gamemode** (15): `Demonic axe ornament kit`, `Demonic quill`, `Demonic sceptre`, `Demonic skin contract`, `Demonic staff ornament kit`, `Demonic tallow`, `Demonic trident ornament kit`, `Echo venator bow ornament kit`, `Shattered banner`, `Shattered cane`, `Shattered cannon ornament kit`, `Twisted banner`, `Twisted cane`, `Twisted horns`, `Twisted trousers`
-
-`Black h'ween mask` is **not** here — unlike the classic red/green/blue masks it is an
-untradeable 2013 event reward, so it stays on the removal list.
-
-League/DMM entries above are tradeable only *within* their gamemode and are not
-obtainable in the main game — parked here for now, flag if they should come back.
+```
+`Black h'ween mask` is **not** here — unlike the red/green/blue masks it is an untradeable
+2013 event reward, so it stays on the removal list. League/DMM entries are tradeable only
+*within* their gamemode; parked here per your call.
 
 ---
 
 ## Reviewed and NOT flagged (false positives)
 
-These matched an event category but are **permanent** NPCs that merely appeared in an event — keep them:
+Permanent NPCs that merely appeared in an event — keep:
 
 - `Anja` — 2018 Halloween event
 - `Cow31337Killer` — 2017 Birthday event, 2018 Birthday event
@@ -191,5 +621,6 @@ Also excluded: Diango's permanent shop stock (`Oculus orb`, `Spinning plate`, `C
 
 ## Note on the `questItem` field
 
-`Card.json` carries a `questItem` boolean on 5,151 of 6,376 cards — it is `false` on **every single card**.
-It is dead weight today, but could be repopulated from the wiki `Category:Quest items` or osrsbox-db `quest_item`.
+`Card.json` carries a `questItem` boolean on 5,151 of 6,376 cards — it is `false` on **every**
+card. Dead weight today; repopulatable from wiki `Category:Quest items` or osrsbox-db
+`quest_item` (the latter is per-item-ID, so it needs an ID-level join, not a name match).
