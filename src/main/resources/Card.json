@@ -95324,17 +95324,6 @@
     "maxHit": "1 (does not attack)"
   },
   {
-    "name": "Bloodthirst rockslug",
-    "level": 86,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bloodthirst_rockslug.png/130px-Bloodthirst_rockslug.png",
-    "examine": "The slime of greater evil.",
-    "attackStyle": "Crush"
-  },
-  {
     "name": "Bloodveld",
     "level": 76,
     "category": [
