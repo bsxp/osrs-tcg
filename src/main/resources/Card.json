@@ -92970,23 +92970,6 @@
     "value": 500000
   },
   {
-    "name": "Volatile mineral",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Volatile_mineral_detail.png/130px-Volatile_mineral_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Might explode if it hits the ground hard enough.",
-    "value": 1
-  },
-  {
     "name": "Volatile orb",
     "category": [
       "Resource",
