@@ -65980,26 +65980,6 @@
     "value": 30
   },
   {
-    "name": "Pumpkin lantern",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Pumpkin_lantern_detail.png/130px-Pumpkin_lantern_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "They call him Jack.",
-    "value": 1,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Pumpkin pie",
     "category": [
       "Resource"
@@ -77850,26 +77830,6 @@
     "value": 50000
   },
   {
-    "name": "Skeleton lantern",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Skeleton_lantern_detail.png/130px-Skeleton_lantern_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Alas... I\u0027m sure someone knew him well.",
-    "value": 1,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Skewer",
     "category": [
       "Resource",
@@ -78813,23 +78773,6 @@
     "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
     "value": 15500,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Smoke powder",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Smoke_powder_detail.png/130px-Smoke_powder_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Ignite",
-      "Destroy"
-    ],
-    "examine": "Could probably cause a good distraction.",
-    "value": 1
   },
   {
     "name": "Smoke quartz",
@@ -80724,126 +80667,6 @@
     "value": 1
   },
   {
-    "name": "Spookier boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spookier_boots_detail.png/130px-Spookier_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky pair of boots cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Spookier gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spookier_gloves_detail.png/130px-Spookier_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky pair of gloves cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Spookier hood",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spookier_hood_detail.png/130px-Spookier_hood_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky hood cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Spookier robe",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spookier_robe_detail.png/130px-Spookier_robe_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky robe cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Spookier skirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spookier_skirt_detail.png/130px-Spookier_skirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky skirt cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Spooky boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spooky_boots_detail.png/130px-Spooky_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky pair of boots cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
     "name": "Spooky chair",
     "category": [
       "Resource",
@@ -80862,46 +80685,6 @@
     ],
     "examine": "It is indeed a very spooky chair.",
     "value": 1
-  },
-  {
-    "name": "Spooky gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spooky_gloves_detail.png/130px-Spooky_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky pair of gloves cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Spooky hood",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spooky_hood_detail.png/130px-Spooky_hood_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky hood cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Spooky pumpkin lantern",
@@ -80924,26 +80707,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Spooky robe",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spooky_robe_detail.png/130px-Spooky_robe_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky robe cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "body"
-  },
-  {
     "name": "Spooky scarecrow",
     "category": [
       "Resource"
@@ -80958,26 +80721,6 @@
     ],
     "examine": "If I were a crow, I\u0027d be scared.",
     "value": 1
-  },
-  {
-    "name": "Spooky skirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spooky_skirt_detail.png/130px-Spooky_skirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A spooky skirt cut from a bedsheet!",
-    "value": 1,
-    "equipmentSlot": "legs"
   },
   {
     "name": "Spooky wall lamp",
