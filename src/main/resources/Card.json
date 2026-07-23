@@ -814,26 +814,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "4th birthday hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/4th_birthday_hat_detail.png/130px-4th_birthday_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A celebration of 4 great years.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "A dear friend",
     "category": [
       "Resource"
@@ -10398,26 +10378,6 @@
     ],
     "examine": "A red bird\u0027s egg.",
     "value": 1
-  },
-  {
-    "name": "Birthday balloons",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Birthday_balloons_detail.png/130px-Birthday_balloons_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "Don\u0027t let them touch the floor!",
-    "value": 0,
-    "equipmentSlot": "weapon"
   },
   {
     "name": "Black 2h sword",
