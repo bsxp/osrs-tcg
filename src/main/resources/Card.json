@@ -19619,86 +19619,6 @@
     "equipmentSlot": "legs"
   },
   {
-    "name": "Carrot costume body",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Carrot_costume_body_detail.png/130px-Carrot_costume_body_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Smells earthy inside.",
-    "value": 40,
-    "equipmentSlot": "body"
-  },
-  {
-    "name": "Carrot costume gloves",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Carrot_costume_gloves_detail.png/130px-Carrot_costume_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "What would it be like in a universe where everyone\u0027s fingers were replaced by carrots?",
-    "value": 0,
-    "equipmentSlot": "hands"
-  },
-  {
-    "name": "Carrot costume hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Carrot_costume_hat_detail.png/130px-Carrot_costume_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A carrot-top for putting on top.",
-    "value": 200,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Carrot costume tights",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Carrot_costume_tights_detail.png/130px-Carrot_costume_tights_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Carrots legs need to remain a tightly kept secret.",
-    "value": 30,
-    "equipmentSlot": "legs"
-  },
-  {
     "name": "Casket",
     "category": [
       "Resource"
@@ -65684,23 +65604,6 @@
     "examine": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
     "value": 80,
     "equipmentSlot": "neck"
-  },
-  {
-    "name": "Raisins",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Raisins_detail.png/130px-Raisins_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "The foodstuff formerly known as grapes.",
-    "value": 1
   },
   {
     "name": "Rake",
