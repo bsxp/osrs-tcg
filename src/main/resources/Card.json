@@ -29779,23 +29779,6 @@
     "value": 2
   },
   {
-    "name": "Eastfloor spade",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Eastfloor_spade_detail.png/130px-Eastfloor_spade_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "options": [
-      "Dig",
-      "Destroy"
-    ],
-    "examine": "A decorated spade.",
-    "value": 1
-  },
-  {
     "name": "Eathram \u0026 rada extract",
     "category": [
       "Resource"
@@ -36655,25 +36638,6 @@
     "examine": "Worn on head. Warning: Smelly.",
     "value": 14000,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Giant bronze dagger",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Giant_bronze_dagger_detail.png/130px-Giant_bronze_dagger_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "Not so subtle.",
-    "value": 100,
-    "equipmentSlot": "2h"
   },
   {
     "name": "Giant champion scroll",
@@ -58851,27 +58815,6 @@
     ],
     "examine": "A box of empty nests.",
     "value": 10
-  },
-  {
-    "name": "Nest hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Nest_hat_%28chick%29_detail.png/130px-Nest_hat_%28chick%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "An egg-cellent look.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Newcomer map",
