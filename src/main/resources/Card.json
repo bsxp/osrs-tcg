@@ -3071,24 +3071,6 @@
     "equipmentSlot": "neck"
   },
   {
-    "name": "Amur leopard toy",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Amur_leopard_toy_detail.png/130px-Amur_leopard_toy_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Play-with",
-      "Destroy"
-    ],
-    "examine": "An amur leopard toy.",
-    "value": 100
-  },
-  {
     "name": "Amy\u0027s saw",
     "category": [
       "Resource",
@@ -7439,26 +7421,6 @@
     "value": 2
   },
   {
-    "name": "Banana hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Banana_hat_detail.png/130px-Banana_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "You\u0027d be bananas to think this isn\u0027t cute.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Banana stew",
     "category": [
       "Resource",
@@ -8823,26 +8785,6 @@
     "examine": "It\u0027s a slightly magical stick.",
     "value": 7000,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Beach boxing gloves",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Beach_boxing_gloves_%28pink%29_detail.png/130px-Beach_boxing_gloves_%28pink%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Drop"
-    ],
-    "examine": "For play-fighting.",
-    "value": 50,
-    "equipmentSlot": "2h"
   },
   {
     "name": "Beanie",
@@ -23550,66 +23492,6 @@
     "equipmentSlot": "neck"
   },
   {
-    "name": "Cursed goblin bow",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cursed_goblin_bow_detail.png/130px-Cursed_goblin_bow_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Drop"
-    ],
-    "examine": "A curse has been placed on this bow.",
-    "value": 30,
-    "equipmentSlot": "2h"
-  },
-  {
-    "name": "Cursed goblin hammer",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cursed_goblin_hammer_detail.png/130px-Cursed_goblin_hammer_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Drop"
-    ],
-    "examine": "A curse has been placed on this warhammer.",
-    "value": 30,
-    "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Cursed goblin staff",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cursed_goblin_staff_detail.png/130px-Cursed_goblin_staff_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Drop"
-    ],
-    "examine": "A curse has been placed on this magical staff.",
-    "value": 30,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Cursed phalanx",
     "category": [
       "Resource",
@@ -36123,26 +36005,6 @@
     "examine": "Let\u0027s start a flash mob!",
     "value": 2000,
     "equipmentSlot": "head"
-  },
-  {
-    "name": "Goblin paint cannon",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Goblin_paint_cannon_detail.png/130px-Goblin_paint_cannon_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "A curious device made by goblins.",
-    "value": 150,
-    "equipmentSlot": "2h"
   },
   {
     "name": "Godsword blade",
@@ -49285,24 +49147,6 @@
     ],
     "examine": "This could help pad out a piece of armour.",
     "value": 1
-  },
-  {
-    "name": "Lion toy",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Lion_toy_detail.png/130px-Lion_toy_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Play-with",
-      "Destroy"
-    ],
-    "examine": "A lion toy.",
-    "value": 100
   },
   {
     "name": "Liplack liquor",
@@ -69623,26 +69467,6 @@
     "value": 1
   },
   {
-    "name": "Runefest shield",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Runefest_shield_detail.png/130px-Runefest_shield_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Celebrating RuneFest 2017.",
-    "value": 1,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Runescroll of bloodbark",
     "category": [
       "Resource"
@@ -75278,24 +75102,6 @@
     ],
     "examine": "A snape grass seed - plant in an allotment.",
     "value": 94
-  },
-  {
-    "name": "Snow leopard toy",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Snow_leopard_toy_detail.png/130px-Snow_leopard_toy_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Play-with",
-      "Destroy"
-    ],
-    "examine": "A snow leopard toy.",
-    "value": 100
   },
   {
     "name": "Snowy knight mix",
@@ -82961,24 +82767,6 @@
     ],
     "examine": "The liver of a tiger shark.",
     "value": 200
-  },
-  {
-    "name": "Tiger toy",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tiger_toy_detail.png/130px-Tiger_toy_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Play-with",
-      "Destroy"
-    ],
-    "examine": "A tiger toy.",
-    "value": 100
   },
   {
     "name": "Tile",
