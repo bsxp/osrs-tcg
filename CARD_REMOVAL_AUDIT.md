@@ -3,16 +3,16 @@
 Audited `src/main/resources/Card.json` @ `main` (44a9dd6) — **6,376 cards**.
 Classification is from live OSRS Wiki page categories (fetched per-card), not keyword guessing.
 
-**407 cards flagged** across the five requested categories.
+**388 cards flagged** across the five requested categories.
 
 | Category | Cards |
 |---|---|
-| Event / holiday / anniversary | 261 |
+| Event / holiday / anniversary | 252 |
 | Diango reclaimables (not already event-tagged) | 63 |
 | Limited-time / discontinued / unobtainable | 46 |
 | Temporary gamemodes (DMM / Leagues) | 29 |
-| Quest items | 10 |
-| **Unique total** | **398** |
+| Quest items | 0 — see §5, all 10 matches are permanently obtainable |
+| **Unique total** | **388** |
 
 ---
 
@@ -147,20 +147,34 @@ Toys/commemoratives reclaimable from Diango, excluding his permanent shop stock.
 
 ---
 
-## 5. Quest items (10)
+## 5. Quest items — 0 recommended for removal
 
-From wiki `Category:Quest items`. Note several are quest-*locked* but permanently obtainable — flagging for your call.
+Wiki `Category:Quest items` matches exactly **10** cards. Every one of them is
+**permanently obtainable and permanently kept**, so none qualify for removal:
 
-- `Captain's log`
-- `Cowbell amulet`
-- `Current duck`
-- `Guthix staff`
-- `Helm of neitiznot`
-- `Keris partisan`
-- `Mayor of catherby`
-- `New crystal shield`
-- `Saradomin staff`
-- `Zamorak staff`
+| Card | Tradeable | Why it stays |
+|---|---|---|
+| `Helm of neitiznot` | Yes | GE-tradeable Fremennik Isles reward |
+| `Guthix staff` | No | Mage Arena, repeatable |
+| `Saradomin staff` | No | Mage Arena, repeatable |
+| `Zamorak staff` | No | Mage Arena, repeatable |
+| `Keris partisan` | No | Permanent; also a ToA drop |
+| `New crystal shield` | No | Roving Elves reward, re-craftable from shards |
+| `Captain's log` | No | Permanent Sailing tool (Pandemonium) |
+| `Current duck` | No | Permanent Sailing tool (Current Affairs) |
+| `Mayor of catherby` | No | Permanent post-quest NPC/fish (Current Affairs) |
+| `Cowbell amulet` | No | Permanent utility amulet (The Ides of Milk) |
+
+The wiki category means *quest-associated*, not *quest-exclusive* — there is no
+quest-only disposable junk in the card set to remove.
+
+### Quest NPCs / monsters — not included (212 cards)
+
+Out of scope for an *items* audit, and the same rule applies: many are permanently
+killable (`Dharok the Wretched`, `Ahrim the Blighted`, `Demonic gorilla`, `Dagannoth mother`).
+Only true one-off quest kills (`Delrith`, `Count Draynor`, `Culinaromancer`, `Agrith Naar`,
+`Black Knight Titan`, `Balance Elemental`) would be candidates. Say the word and I can split these out.
+
 ---
 
 ## Reviewed and NOT flagged (false positives)
