@@ -56143,26 +56143,6 @@
     "equipmentSlot": "feet"
   },
   {
-    "name": "Mystic cards",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Mystic_cards_detail.png/130px-Mystic_cards_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "You gotta really put your heart into throwing these things.",
-    "value": 50,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Mystic dust staff",
     "category": [
       "Resource",
@@ -61773,27 +61753,6 @@
     ],
     "examine": "Highly potent essence, imbued with multiple elemental energies.",
     "value": 30
-  },
-  {
-    "name": "Portable waystone",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Portable_waystone_detail.png/130px-Portable_waystone_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Teleport",
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A small waystone which can whisk you to places of importance.",
-    "value": 400,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Portable weather station",
