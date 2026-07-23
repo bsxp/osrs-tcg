@@ -41826,26 +41826,6 @@
     "equipmentSlot": "hands"
   },
   {
-    "name": "Grim reaper hood",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Grim_reaper_hood_detail.png/130px-Grim_reaper_hood_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Allows me to imitate the bringer of doom, the stealer of souls, the eternal end...",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Grim reaper top",
     "category": [
       "Resource",
@@ -41864,41 +41844,6 @@
     "examine": "It\u0027s spooky time.",
     "value": 1,
     "equipmentSlot": "body"
-  },
-  {
-    "name": "Grim reaper\u0027s diary",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Grim_reaper%27s_diary_detail.png/130px-Grim_reaper%27s_diary_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Destroy"
-    ],
-    "examine": "Surely this holds many a dark tale!",
-    "value": 1
-  },
-  {
-    "name": "Grim robe",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Grim_robe_detail.png/130px-Grim_robe_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Some of the Reaper\u0027s garb.",
-    "value": 1
   },
   {
     "name": "Grimy avantoe",
@@ -76439,23 +76384,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Scythe sharpener",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Scythe_sharpener_detail.png/130px-Scythe_sharpener_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Used to sharpen the blade on a scythe.",
-    "value": 1
-  },
-  {
     "name": "Sea salt",
     "category": [
       "Resource"
@@ -94997,23 +94925,6 @@
     "examine": "A razor sharp sword.",
     "value": 100000,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Will and testament",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Will_and_testament_detail.png/130px-Will_and_testament_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "Someone\u0027s last will and testament.",
-    "value": 1
   },
   {
     "name": "Willow bird house",
