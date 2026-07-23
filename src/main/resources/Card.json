@@ -9563,23 +9563,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Beautiful yellow pansy seed",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Beautiful_yellow_pansy_seed_detail.png/130px-Beautiful_yellow_pansy_seed_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "A seed that can be planted to grow a Beautiful Yellow Pansy.",
-    "value": 0
-  },
-  {
     "name": "Beaver",
     "category": [
       "Resource",
@@ -34678,27 +34661,6 @@
     ],
     "examine": "There is flour in this pot.",
     "value": 10
-  },
-  {
-    "name": "Flower crown",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Flower_crown_%28gay%29_detail.png/130px-Flower_crown_%28gay%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change-style",
-      "Destroy"
-    ],
-    "examine": "A crown made out of six beautiful flowers that celebrates Pride.",
-    "value": 1,
-    "equipmentSlot": "head"
   },
   {
     "name": "Fly fishing rod",
