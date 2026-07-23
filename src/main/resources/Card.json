@@ -21237,46 +21237,6 @@
     "value": 0
   },
   {
-    "name": "Classic imp hood",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Classic_imp_hood_detail.png/130px-Classic_imp_hood_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Impishly iconic.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Classic imp tail",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Classic_imp_tail_detail.png/130px-Classic_imp_tail_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Impishly impressive.",
-    "value": 1,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Claws of callisto",
     "category": [
       "Resource",
