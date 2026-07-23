@@ -27193,46 +27193,6 @@
     "equipmentSlot": "neck"
   },
   {
-    "name": "Dog boots",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Dog_boots_detail.png/130px-Dog_boots_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Why the big... paws?",
-    "value": 1,
-    "equipmentSlot": "feet"
-  },
-  {
-    "name": "Dog disguise",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Dog_disguise_detail.png/130px-Dog_disguise_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Bow wow.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Dom",
     "category": [
       "Resource",
@@ -33529,26 +33489,6 @@
     ],
     "examine": "It likes ferreting around.",
     "value": 40
-  },
-  {
-    "name": "Festive scarf",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Festive_scarf_detail.png/130px-Festive_scarf_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Warm and cozy.",
-    "value": 80,
-    "equipmentSlot": "neck"
   },
   {
     "name": "Fetid key",
@@ -64502,27 +64442,6 @@
     ],
     "examine": "Safety first!",
     "value": 320,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Present box hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Present_box_hat_%28icy%29_detail.png/130px-Present_box_hat_%28icy%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change",
-      "Destroy"
-    ],
-    "examine": "Won\u0027t you come and save me?",
-    "value": 0,
     "equipmentSlot": "head"
   },
   {
