@@ -40848,26 +40848,6 @@
     "value": 9245
   },
   {
-    "name": "Gregg\u0027s eastdoor",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Gregg%27s_eastdoor_detail.png/130px-Gregg%27s_eastdoor_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Hold the door!",
-    "value": 0,
-    "equipmentSlot": "2h"
-  },
-  {
     "name": "Grey boots",
     "category": [
       "Resource",
@@ -65476,26 +65456,6 @@
       "Destroy"
     ],
     "examine": "A magic training arena progress hat.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Propeller hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Propeller_hat_detail.png/130px-Propeller_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Disappointingly static.",
     "value": 1,
     "equipmentSlot": "head"
   },
