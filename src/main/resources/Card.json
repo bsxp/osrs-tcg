@@ -95210,18 +95210,6 @@
     "maxHit": "18"
   },
   {
-    "name": "Big Evil Chicken",
-    "level": 422,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Big_Evil_Chicken.png/130px-Big_Evil_Chicken.png",
-    "examine": "A big chicken.",
-    "attackStyle": "Magic",
-    "maxHit": "26"
-  },
-  {
     "name": "Big Snake",
     "level": 84,
     "category": [
@@ -98722,18 +98710,6 @@
     "maxHit": "2"
   },
   {
-    "name": "Giant goblin",
-    "level": 347,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Giant_goblin.png/130px-Giant_goblin.png",
-    "examine": "An ugly green creature.",
-    "attackStyle": "Crush",
-    "maxHit": "27"
-  },
-  {
     "name": "Giant lobster",
     "level": 45,
     "category": [
@@ -99680,18 +99656,6 @@
     "examine": "A citizen of Burthorpe.",
     "attackStyle": "Crush",
     "maxHit": "1"
-  },
-  {
-    "name": "I DSCIM YOU",
-    "level": 495,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/I_DSCIM_YOU.png/130px-I_DSCIM_YOU.png",
-    "examine": "Lives off of surge potions.",
-    "attackStyle": "Slash",
-    "maxHit": "21"
   },
   {
     "name": "Ice Queen",
@@ -101156,18 +101120,6 @@
     ],
     "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Mad_melvin96.png/130px-Mad_melvin96.png",
     "examine": "Watch out, he\u0027s an absolute unit."
-  },
-  {
-    "name": "Magic Mark",
-    "level": 467,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Magic_Mark.png/130px-Magic_Mark.png",
-    "examine": "He doesn\u0027t look too friendly.",
-    "attackStyle": "Magic",
-    "maxHit": "18"
   },
   {
     "name": "Magic axe",
@@ -102829,18 +102781,6 @@
     "examine": "The spirit of a long-dead warrior.",
     "attackStyle": "Slash",
     "maxHit": "13"
-  },
-  {
-    "name": "Ranging Ro",
-    "level": 473,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Ranging_Ro.png/130px-Ranging_Ro.png",
-    "examine": "She doesn\u0027t look too friendly.",
-    "attackStyle": "Ranged",
-    "maxHit": "16"
   },
   {
     "name": "Ranis Drakan",
@@ -105863,17 +105803,6 @@
     "maxHit": "148 "
   },
   {
-    "name": "TzTok-Jad-Rek",
-    "level": 186,
-    "category": [
-      "Monster"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/TzTok-Jad-Rek.png/130px-TzTok-Jad-Rek.png",
-    "examine": "This is going to hurt... Slightly.",
-    "attackStyle": "Stab, Magic, Ranged",
-    "maxHit": "25 (Melee), ?"
-  },
-  {
     "name": "Ugthanki",
     "level": 42,
     "category": [
@@ -106894,18 +106823,6 @@
     ],
     "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Zebak%27s_Phantom.png/130px-Zebak%27s_Phantom.png",
     "examine": "A phantom of Zebak."
-  },
-  {
-    "name": "Zemouregal Summon",
-    "level": 163,
-    "category": [
-      "Monster",
-      "No"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Zemouregal_Summon_%28Mummy%29.png/130px-Zemouregal_Summon_%28Mummy%29.png",
-    "examine": "A tightly-wrapped monster.",
-    "attackStyle": "Crush",
-    "maxHit": "16"
   },
   {
     "name": "Zogre",
