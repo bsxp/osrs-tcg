@@ -66037,26 +66037,6 @@
     "equipmentSlot": "head"
   },
   {
-    "name": "Prop sword",
-    "category": [
-      "Resource",
-      "Weapon"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Prop_sword_detail.png/130px-Prop_sword_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "There\u0027s something strangely familiar about the sword.",
-    "value": 1,
-    "equipmentSlot": "weapon"
-  },
-  {
     "name": "Propeller hat",
     "category": [
       "Resource",
