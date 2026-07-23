@@ -5570,23 +5570,6 @@
     "equipmentSlot": "legs"
   },
   {
-    "name": "Antisanta\u0027s coal box",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antisanta%27s_coal_box_detail.png/130px-Antisanta%27s_coal_box_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "This can be used on a coal mining site to get lumps of coal.",
-    "value": 0
-  },
-  {
     "name": "Antler guard",
     "category": [
       "Resource",
@@ -13797,27 +13780,6 @@
     ],
     "examine": "A number of chemical covered wooden logs.",
     "value": 4
-  },
-  {
-    "name": "Blue marionette",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Blue_marionette_detail.png/130px-Blue_marionette_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Jump",
-      "Walk",
-      "Bow",
-      "Dance",
-      "Destroy"
-    ],
-    "examine": "I\u0027ve got no strings ... oh hang on!",
-    "value": 1
   },
   {
     "name": "Blue monkey",
@@ -41364,27 +41326,6 @@
     "value": 4
   },
   {
-    "name": "Green marionette",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Green_marionette_detail.png/130px-Green_marionette_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Jump",
-      "Walk",
-      "Bow",
-      "Dance",
-      "Destroy"
-    ],
-    "examine": "I\u0027ve got no strings ... oh hang on!",
-    "value": 1
-  },
-  {
     "name": "Green naval shirt",
     "category": [
       "Resource",
@@ -55075,24 +55016,6 @@
     ],
     "examine": "A bunch of marigolds.",
     "value": 1
-  },
-  {
-    "name": "Marionette handle",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Marionette_handle_detail.png/130px-Marionette_handle_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Drop"
-    ],
-    "examine": "The controlling part of a marionette.",
-    "value": 60000
   },
   {
     "name": "Mark of grace",
@@ -70383,27 +70306,6 @@
     "value": 4
   },
   {
-    "name": "Red marionette",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Red_marionette_detail.png/130px-Red_marionette_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Jump",
-      "Walk",
-      "Bow",
-      "Dance",
-      "Destroy"
-    ],
-    "examine": "I\u0027ve got no strings ... oh hang on!",
-    "value": 1
-  },
-  {
     "name": "Red monkey",
     "category": [
       "Resource"
@@ -82351,23 +82253,6 @@
     "value": 100
   },
   {
-    "name": "Star bauble",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Star_bauble_%28red%29_detail.png/130px-Star_bauble_%28red%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "An unpainted bauble shaped like a star.",
-    "value": 1
-  },
-  {
     "name": "Star fragment",
     "category": [
       "Resource",
@@ -90055,23 +89940,6 @@
     "examine": "Perfect for collecting treats while Trick-or-Treating!",
     "value": 1,
     "equipmentSlot": "shield"
-  },
-  {
-    "name": "Tree bauble",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Tree_bauble_%28red%29_detail.png/130px-Tree_bauble_%28red%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "An unpainted bauble shaped like a wintumber tree.",
-    "value": 1
   },
   {
     "name": "Tree skirt",
