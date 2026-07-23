@@ -42385,24 +42385,6 @@
     "value": 10000
   },
   {
-    "name": "Halloween scarecrow",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Halloween_scarecrow_detail.png/130px-Halloween_scarecrow_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Plant",
-      "Destroy"
-    ],
-    "examine": "Perfectly shaped for showcasing various gourds. You can use this in the garden of your house.",
-    "value": 1
-  },
-  {
     "name": "Ham boots",
     "category": [
       "Resource",
@@ -74060,26 +74042,6 @@
     ],
     "examine": "This should scare the birds.",
     "value": 1
-  },
-  {
-    "name": "Scarecrow shirt",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Scarecrow_shirt_detail.png/130px-Scarecrow_shirt_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "I completed the Halloween event and all I got was this rather nice shirt.",
-    "value": 1,
-    "equipmentSlot": "body"
   },
   {
     "name": "Scarred extract",
