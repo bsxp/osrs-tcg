@@ -71041,26 +71041,6 @@
     "equipmentSlot": "hands"
   },
   {
-    "name": "Reindeer hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Reindeer_hat_detail.png/130px-Reindeer_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "A reindeer hat and a matching flashing nose.",
-    "value": 1,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Rejuvenation potion",
     "category": [
       "Resource",
