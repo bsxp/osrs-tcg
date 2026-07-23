@@ -14709,27 +14709,6 @@
     "value": 1
   },
   {
-    "name": "Book of egg",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Book_of_egg_detail.png/130px-Book_of_egg_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Preach",
-      "Destroy"
-    ],
-    "examine": "An eggsquisite tome.",
-    "value": 200,
-    "equipmentSlot": "shield"
-  },
-  {
     "name": "Book of folklore",
     "category": [
       "Resource"
@@ -30152,86 +30131,6 @@
     ],
     "examine": "A baked potato with egg and tomato.",
     "value": 12
-  },
-  {
-    "name": "Egg priest mitre",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Egg_priest_mitre_detail.png/130px-Egg_priest_mitre_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "An egg mitre.",
-    "value": 200,
-    "equipmentSlot": "head"
-  },
-  {
-    "name": "Egg priest necklace",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Egg_priest_necklace_detail.png/130px-Egg_priest_necklace_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "I feel closer to the eggs when I am wearing this.",
-    "value": 40,
-    "equipmentSlot": "neck"
-  },
-  {
-    "name": "Egg priest robe",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Egg_priest_robe_detail.png/130px-Egg_priest_robe_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "Keeps an egg priest\u0027s knees nice and warm.",
-    "value": 30,
-    "equipmentSlot": "legs"
-  },
-  {
-    "name": "Egg priest robe top",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Egg_priest_robe_top_detail.png/130px-Egg_priest_robe_top_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "I feel closer to the eggs when I am wearing this.",
-    "value": 40,
-    "equipmentSlot": "body"
   },
   {
     "name": "Egg whisk",
