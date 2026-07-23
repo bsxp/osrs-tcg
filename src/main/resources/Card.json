@@ -15670,25 +15670,6 @@
     "value": 4
   },
   {
-    "name": "Brewer\u0027s folly",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Brewer%27s_folly_detail.png/130px-Brewer%27s_folly_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drink",
-      "Destroy"
-    ],
-    "examine": "That\u0027s a funny looking beer. Maybe the brewer really was guilty of folly.",
-    "value": 1
-  },
-  {
     "name": "Brewin\u0027 guide",
     "category": [
       "Resource"
@@ -22797,24 +22778,6 @@
     ],
     "examine": "A contract issued by Yama. Present it to him to discuss some new terms.",
     "value": 75000
-  },
-  {
-    "name": "Cook\u0027s letter",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cook%27s_letter_detail.png/130px-Cook%27s_letter_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Destroy"
-    ],
-    "examine": "An enigmatic letter from the Cook to Sir Vyvin\u0027s squire.",
-    "value": 1
   },
   {
     "name": "Cooked barb-tailed kebbit",
@@ -92554,25 +92517,6 @@
     "examine": "Dress like the powerful vyrewatch!",
     "value": 500,
     "equipmentSlot": "body"
-  },
-  {
-    "name": "Vyvin\u0027s wine",
-    "category": [
-      "Resource",
-      "Consumable"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Vyvin%27s_wine_detail.png/130px-Vyvin%27s_wine_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drink",
-      "Destroy"
-    ],
-    "examine": "A very good vintage. Not commercially available.",
-    "value": 1
   },
   {
     "name": "War blessing",
