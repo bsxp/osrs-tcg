@@ -85438,23 +85438,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Twisted extract",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Twisted_extract_detail.png/130px-Twisted_extract_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "An abyssal extract amplifying the creation of chaos, cosmic and combination runes.",
-    "value": 200
-  },
-  {
     "name": "Twisted horns",
     "category": [
       "Resource"
@@ -85492,28 +85475,6 @@
     "value": 40
   },
   {
-    "name": "Twisted slayer helmet",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Twisted_slayer_helmet_detail.png/130px-Twisted_slayer_helmet_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Check",
-      "Disassemble",
-      "Drop"
-    ],
-    "examine": "You don\u0027t want to wear it inside-out.",
-    "value": 40000,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Twisted trousers",
     "category": [
       "Resource",
@@ -85532,31 +85493,6 @@
     "examine": "The trousers of a twisted relic hunter.",
     "value": 100000,
     "equipmentSlot": "legs"
-  },
-  {
-    "name": "Twitcher\u0027s gloves",
-    "category": [
-      "Resource",
-      "Armour",
-      "Misthalin",
-      "Kandarin",
-      "Tirannwn",
-      "Varlamore"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Twitcher%27s_gloves_detail.png/130px-Twitcher%27s_gloves_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Settings",
-      "Drop"
-    ],
-    "examine": "These help you choose your nest rewards.",
-    "value": 6,
-    "equipmentSlot": "hands"
   },
   {
     "name": "Two barrels",
