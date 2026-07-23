@@ -21677,27 +21677,6 @@
     "value": 10
   },
   {
-    "name": "Cobweb cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cobweb_cape_detail.png/130px-Cobweb_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change",
-      "Destroy"
-    ],
-    "examine": "This is made of the finest spidersilk.",
-    "value": 0,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Cockatrice head",
     "category": [
       "Resource",
@@ -78845,27 +78824,6 @@
     "value": 10
   },
   {
-    "name": "Spider hat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Spider_hat_detail.png/130px-Spider_hat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change",
-      "Destroy"
-    ],
-    "examine": "Provider of mental cobwebs.",
-    "value": 0,
-    "equipmentSlot": "head"
-  },
-  {
     "name": "Spider on shaft",
     "category": [
       "Resource",
@@ -91428,27 +91386,6 @@
     ],
     "examine": "A vial of super strong weapon poison, for spears and daggers.",
     "value": 432
-  },
-  {
-    "name": "Web cloak",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Web_cloak_detail.png/130px-Web_cloak_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Change",
-      "Destroy"
-    ],
-    "examine": "A very fancy cloak made from black silk and gossamer.",
-    "value": 1,
-    "equipmentSlot": "cape"
   },
   {
     "name": "Webweaver bow",
