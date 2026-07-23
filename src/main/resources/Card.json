@@ -1066,24 +1066,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Adamant arrow pack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Adamant_arrow_pack_detail.png/130px-Adamant_arrow_pack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Open",
-      "Drop"
-    ],
-    "examine": "A pack containing 50 adamant arrows.",
-    "value": 70
-  },
-  {
     "name": "Adamant arrow",
     "category": [
       "Resource",
@@ -5141,23 +5123,6 @@
     "value": 40
   },
   {
-    "name": "Antique emblem",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Antique_emblem_%28tier_9%29_detail.png/130px-Antique_emblem_%28tier_9%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "An emblem of ancient times.",
-    "value": 500
-  },
-  {
     "name": "Antler guard",
     "category": [
       "Resource",
@@ -8301,24 +8266,6 @@
     "equipmentSlot": "weapon"
   },
   {
-    "name": "Barbarian skills",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Barbarian_skills_detail.png/130px-Barbarian_skills_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Destroy"
-    ],
-    "examine": "A record of Otto\u0027s instructions to me.",
-    "value": 0
-  },
-  {
     "name": "Barbed bolts",
     "category": [
       "Resource",
@@ -8890,26 +8837,6 @@
     ],
     "examine": "A deep tin used for baking gnome battas in.",
     "value": 10
-  },
-  {
-    "name": "Battlehat",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Battlehat_detail.png/130px-Battlehat_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "You gotta fight for your right to party!",
-    "value": 0,
-    "equipmentSlot": "head"
   },
   {
     "name": "Battlemage potion",
@@ -11838,23 +11765,6 @@
     "value": 50
   },
   {
-    "name": "Blighted bind sack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Blighted_bind_sack_detail.png/130px-Blighted_bind_sack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Enough power for a Bind, blighted so it can be used only in the Wilderness.",
-    "value": 20
-  },
-  {
     "name": "Blighted entangle sack",
     "category": [
       "Resource"
@@ -11908,23 +11818,6 @@
     ],
     "examine": "A rare catch, now blighted so it can be eaten only in the Wilderness.",
     "value": 50
-  },
-  {
-    "name": "Blighted snare sack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Blighted_snare_sack_detail.png/130px-Blighted_snare_sack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Enough power for a Snare, blighted so it can be used only in the Wilderness.",
-    "value": 25
   },
   {
     "name": "Blighted super restore",
@@ -11996,23 +11889,6 @@
     ],
     "examine": "Enough power for a Vengeance or or Vengeance Other, blighted so it can be used only in the Wilderness.",
     "value": 33
-  },
-  {
-    "name": "Blighted wave sack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Blighted_wave_sack_detail.png/130px-Blighted_wave_sack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Enough power for any Wave spell, blighted so it can be used only in the Wilderness.",
-    "value": 40
   },
   {
     "name": "Blood ancient sceptre",
@@ -19314,24 +19190,6 @@
     "value": 30
   },
   {
-    "name": "Catalytic rune pack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Catalytic_rune_pack_detail.png/130px-Catalytic_rune_pack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Open",
-      "Drop"
-    ],
-    "examine": "A pack containing 50 of each high-level catalytic rune.",
-    "value": 75
-  },
-  {
     "name": "Catalytic talisman",
     "category": [
       "Resource",
@@ -24487,24 +24345,6 @@
     "value": 15000
   },
   {
-    "name": "Dark manuscript",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Dark_manuscript_detail.png/130px-Dark_manuscript_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Read",
-      "Drop"
-    ],
-    "examine": "Dark secrets from ancient times.",
-    "value": 1
-  },
-  {
     "name": "Dark relic",
     "category": [
       "Resource",
@@ -29224,24 +29064,6 @@
     "value": 30
   },
   {
-    "name": "Elemental rune pack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Elemental_rune_pack_detail.png/130px-Elemental_rune_pack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Open",
-      "Drop"
-    ],
-    "examine": "A pack containing 100 of each elemental rune.",
-    "value": 50
-  },
-  {
     "name": "Elemental talisman",
     "category": [
       "Resource"
@@ -32611,23 +32433,6 @@
     "value": 720
   },
   {
-    "name": "Fish chunks",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Fish_chunks_detail.png/130px-Fish_chunks_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Apparently Cormorants like to eat this stuff...",
-    "value": 20
-  },
-  {
     "name": "Fish crate",
     "category": [
       "Resource"
@@ -34211,23 +34016,6 @@
     ],
     "examine": "Fresh off the crab itself.",
     "value": 1
-  },
-  {
-    "name": "Fresh fish",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Fresh_fish_detail.png/130px-Fresh_fish_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Some freshly caught fish.",
-    "value": 0
   },
   {
     "name": "Fried mushrooms",
@@ -56029,23 +55817,6 @@
     "equipmentSlot": "head"
   },
   {
-    "name": "Mysterious emblem",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Mysterious_emblem_%28tier_5%29_detail.png/130px-Mysterious_emblem_%28tier_5%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "An emblem of ancient times, now superseded.",
-    "value": 4500
-  },
-  {
     "name": "Mysterious page",
     "category": [
       "Resource",
@@ -69162,24 +68933,6 @@
     "equipmentSlot": "2h"
   },
   {
-    "name": "Rune arrow pack",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rune_arrow_pack_detail.png/130px-Rune_arrow_pack_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Open",
-      "Drop"
-    ],
-    "examine": "A pack containing 50 rune arrows.",
-    "value": 75
-  },
-  {
     "name": "Rune arrow",
     "category": [
       "Resource",
@@ -78819,23 +78572,6 @@
       "Drop"
     ],
     "examine": "A tatty old book belonging to the Wise Old Man of Draynor Village.",
-    "value": 1
-  },
-  {
-    "name": "Strange box",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Strange_box_detail.png/130px-Strange_box_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": true,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "It seems to be humming...",
     "value": 1
   },
   {
@@ -102945,15 +102681,6 @@
     "examine": "He rules the, er, roost.",
     "attackStyle": "Stab",
     "maxHit": "0"
-  },
-  {
-    "name": "Rowdy Guard",
-    "level": 43,
-    "category": [
-      "Monster"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Rowdy_Guard.png/130px-Rowdy_Guard.png",
-    "examine": "He looks a bit aggressive and rowdy."
   },
   {
     "name": "Rowdy slave",
