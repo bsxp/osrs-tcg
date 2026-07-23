@@ -19111,26 +19111,6 @@
     "value": 1
   },
   {
-    "name": "Cabbage cape",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cabbage_cape_detail.png/130px-Cabbage_cape_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wear",
-      "Destroy"
-    ],
-    "examine": "The cape worn by master cabbage pickers.",
-    "value": 100,
-    "equipmentSlot": "cape"
-  },
-  {
     "name": "Cabbage round shield",
     "category": [
       "Resource",
@@ -24496,26 +24476,6 @@
     ],
     "examine": "A string for a crossbow.",
     "value": 1
-  },
-  {
-    "name": "Cruciferous codex",
-    "category": [
-      "Resource",
-      "Armour"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Cruciferous_codex_detail.png/130px-Cruciferous_codex_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": true,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Wield",
-      "Destroy"
-    ],
-    "examine": "The holy book of Cabbages.",
-    "value": 200,
-    "equipmentSlot": "shield"
   },
   {
     "name": "Crumbling tome",
