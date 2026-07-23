@@ -5699,23 +5699,6 @@
     "value": 1
   },
   {
-    "name": "Archaic emblem",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Archaic_emblem_%28tier_9%29_detail.png/130px-Archaic_emblem_%28tier_9%29_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "An emblem of ancient times, now superseded.",
-    "value": 50000
-  },
-  {
     "name": "Archer helm",
     "category": [
       "Resource",
@@ -8319,23 +8302,6 @@
     ],
     "examine": "Fills your bank.",
     "value": 0
-  },
-  {
-    "name": "Bank key",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Bank_key_detail.png/130px-Bank_key_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Destroy"
-    ],
-    "examine": "This can be used to raid items that were in your victim\u0027s bank.",
-    "value": 1
   },
   {
     "name": "Barb-tail harpoon",
@@ -85263,23 +85229,6 @@
     "examine": "It needs to be charged with death runes, chaos runes, fire runes and Zulrah\u0027s scales.",
     "value": 78000,
     "equipmentSlot": "weapon"
-  },
-  {
-    "name": "Trinket dust",
-    "category": [
-      "Resource"
-    ],
-    "imageUrl": "https://oldschool.runescape.wiki/images/thumb/Trinket_dust_detail.png/130px-Trinket_dust_detail.png",
-    "questItem": false,
-    "tradeable": false,
-    "equipable": false,
-    "stackable": false,
-    "noteable": false,
-    "options": [
-      "Drop"
-    ],
-    "examine": "Looks like this used to be useful.",
-    "value": 12
   },
   {
     "name": "Tristessa\u0027s tragedy",
